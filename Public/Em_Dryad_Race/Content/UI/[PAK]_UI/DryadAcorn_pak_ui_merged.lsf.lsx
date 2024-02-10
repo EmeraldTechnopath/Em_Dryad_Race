@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" />
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="547e082e-1c74-4b2f-9c29-a5da81d1a67d" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Em_Dryad_Race_Icons" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Textures/Icons/Em_Dryad_Race_icons.dds" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Em_Dryad_Race_icons_items" />
+					<attribute id="Type" type="int64" value="0" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

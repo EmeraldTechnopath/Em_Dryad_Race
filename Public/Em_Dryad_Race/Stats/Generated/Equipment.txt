@@ -1,0 +1,31 @@
+new equipment "EQ_Underwear_Dryad"
+add equipmentgroup
+add equipment entry "AMX_DRYAD_HEADWEAR_1A"
+add equipmentgroup
+add equipment entry "LEAFY_DRYAD_UNDERWEAR"
+add equipmentgroup
+add equipment entry "ACORN_OF_FAR_TRAVEL"
+
+new equipment "EQ_Underwear_Dryad_Summer"
+add equipmentgroup
+add equipment entry "AMX_DRYAD_HEADWEAR_1A"
+add equipmentgroup
+add equipment entry "LEAFY_DRYAD_UNDERWEAR_SUMMER"
+add equipmentgroup
+add equipment entry "ACORN_OF_FAR_TRAVEL"
+
+new equipment "EQ_Underwear_Dryad_Autumn"
+add equipmentgroup
+add equipment entry "AMX_DRYAD_HEADWEAR_1A"
+add equipmentgroup
+add equipment entry "LEAFY_DRYAD_UNDERWEAR_AUTUMN"
+add equipmentgroup
+add equipment entry "ACORN_OF_FAR_TRAVEL"
+
+new equipment "EQ_Underwear_Dryad_Winter"
+add equipmentgroup
+add equipment entry "AMX_DRYAD_HEADWEAR_1A"
+add equipmentgroup
+add equipment entry "LEAFY_DRYAD_UNDERWEAR_WINTER"
+add equipmentgroup
+add equipment entry "ACORN_OF_FAR_TRAVEL"

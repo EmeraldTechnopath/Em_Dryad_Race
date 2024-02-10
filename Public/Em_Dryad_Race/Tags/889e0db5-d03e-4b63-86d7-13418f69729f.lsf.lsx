@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|Wood Elf|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h0f9d2895ga60bg40ffg85a3ge7584ae29149" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hb6045cfbg3c97g4b1cgaf57gaf508f601e2b" version="2" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="WOODELF" />
+			<attribute id="UUID" type="guid" value="889e0db5-d03e-4b63-86d7-13418f69729f" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Race" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="PlayerRace" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>	
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hb84f3b3-3de2-49af-8666-410692faee4a" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h3c2a7a8-0c6f-4323-a8c4-af996b6be2e1" version="1" />
+					<attribute id="Icon" type="FixedString" value="Em_Dryad_Race_Firefly picture of a brown acorn 11620_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="8fe0e158-56f4-45d2-ad9a-72f5afbd4019" />
+					<attribute id="Name" type="LSString" value="ACORN_OF_FAR_TRAVEL" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f369f4fa-2da7-4693-a147-16cfaf02bca5" />
+					<attribute id="Stats" type="FixedString" value="ACORN_OF_FAR_TRAVEL" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="76c825c8-3efe-7624-4f26-9a64fa9541bc" />
+					<children>
+						<node id="Equipment">
+							<attribute id="EquipmentSlots" type="uint32" value="0" />
+							<attribute id="VisualSetSlot" type="uint32" value="0" />
+							<children>
+								<node id="LongHair" />
+								<node id="ShortHair" />
+								<node id="ParentRace" />
+								<node id="Slot">
+									<attribute id="Object" type="FixedString" value="VanityBody" />
+								</node>
+								<node id="Visuals">
+									<children>
+										<node id="Object">				
+											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<children>
+
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="a9673f1c-a2f5-4ca9-8ee4-a9babd080bf8" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">				
+											<attribute id="MapKey" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+											<children>
+
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="a9673f1c-a2f5-4ca9-8ee4-a9babd080bf8" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">				
+											<attribute id="MapKey" type="guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
+											<children>
+
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="a9673f1c-a2f5-4ca9-8ee4-a9babd080bf8" />
+												</node>
+											</children>
+										</node>
+										<node id="Object">				
+											<attribute id="MapKey" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
+											<children>
+
+												<node id="MapValue">
+													<attribute id="Object" type="FixedString" value="a9673f1c-a2f5-4ca9-8ee4-a9babd080bf8" />
+												</node>
+											</children>
+										</node>
+
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+
+			</children>
+		</node>
+	</region>
+</save>

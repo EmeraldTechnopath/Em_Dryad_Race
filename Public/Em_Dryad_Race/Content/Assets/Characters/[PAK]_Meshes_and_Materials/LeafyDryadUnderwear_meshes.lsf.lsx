@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" />
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.0 1.42 0.14" />
+					<attribute id="BoundsMin" type="fvec3" value="-2.62 0.0 -0.16" />
+					<attribute id="Center" type="fvec3" value="-1.31 0.71 -0.01" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="27dfdc53-6e5d-4b0a-8c80-9103c508dda2" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="Name" type="LSString" value="LEAFY_MESH_F" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="1.5" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_F.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_F.Dummy_Root.0" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						
+
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="597a37e0-3d0d-4144-8c06-34aa5864afbd" />
+							<attribute id="ObjectID" type="FixedString" value="LEAFY_MESH_F.Proxy_DRYAD_F_Leaves_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Nipple Covers" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Private_Parts" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="ModestyLeaf" />
+						</node>
+
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.0 1.42 0.14" />
+					<attribute id="BoundsMin" type="fvec3" value="-2.62 0.0 -0.16" />
+					<attribute id="Center" type="fvec3" value="-1.31 0.71 -0.01" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="1af397ee-e120-4501-a429-2759f79f9239" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="Name" type="LSString" value="LEAFY_MESH_F_Summer" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="1.5" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_F.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_F.Dummy_Root.0" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						
+
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="a4de6ef8-15e7-4303-a32e-36a82e936539" />
+							<attribute id="ObjectID" type="FixedString" value="LEAFY_MESH_F.Proxy_DRYAD_F_Leaves_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Nipple Covers" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Private_Parts" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="ModestyLeaf" />
+						</node>
+
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.0 1.42 0.14" />
+					<attribute id="BoundsMin" type="fvec3" value="-2.62 0.0 -0.16" />
+					<attribute id="Center" type="fvec3" value="-1.31 0.71 -0.01" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="1a086420-fe14-448d-8efd-b97cdca6b2b9" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="Name" type="LSString" value="LEAFY_MESH_F_Autumn" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="1.5" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_F.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_F.Dummy_Root.0" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						
+
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="1c1d09f8-aec2-4e46-a477-d8769c67ccb3" />
+							<attribute id="ObjectID" type="FixedString" value="LEAFY_MESH_F.Proxy_DRYAD_F_Leaves_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Nipple Covers" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Private_Parts" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="ModestyLeaf" />
+						</node>
+
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.0 1.42 0.14" />
+					<attribute id="BoundsMin" type="fvec3" value="-2.62 0.0 -0.16" />
+					<attribute id="Center" type="fvec3" value="-1.31 0.71 -0.01" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="31410fef-8f6e-4d62-ab47-74f967680681" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="Name" type="LSString" value="LEAFY_MESH_F_Winter" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="1.5" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_F.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_F.Dummy_Root.0" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						
+
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="7ecaaf33-1782-44e3-aaf5-c1db0b47af14" />
+							<attribute id="ObjectID" type="FixedString" value="LEAFY_MESH_F.Proxy_DRYAD_F_Leaves_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Nipple Covers" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Private_Parts" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="ModestyLeaf" />
+						</node>
+
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.21 1.11 0.14" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.21 0.0 -0.13" />
+					<attribute id="Center" type="fvec3" value="-0.0 0.56 0.0" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="d7fb8e03-7f19-4bb9-9416-698b062951a1" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="Name" type="LSString" value="LEAFY_MESH_M" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.61" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_M.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_M.Dummy_Root.0" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						
+
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="597a37e0-3d0d-4144-8c06-34aa5864afbd" />
+							<attribute id="ObjectID" type="FixedString" value="LEAFY_MESH_M.Proxy_DRYAD_F_Leaves_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Private_Parts" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="ModestyLeaf" />
+						</node>
+
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.21 1.11 0.14" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.21 0.0 -0.13" />
+					<attribute id="Center" type="fvec3" value="-0.0 0.56 0.0" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="af741a51-4eba-4a8e-8d60-99b93da013fa" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="Name" type="LSString" value="LEAFY_MESH_M_Summer" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.61" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_M.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_M.Dummy_Root.0" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						
+
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="a4de6ef8-15e7-4303-a32e-36a82e936539" />
+							<attribute id="ObjectID" type="FixedString" value="LEAFY_MESH_M.Proxy_DRYAD_F_Leaves_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Private_Parts" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="ModestyLeaf" />
+						</node>
+
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.21 1.11 0.14" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.21 0.0 -0.13" />
+					<attribute id="Center" type="fvec3" value="-0.0 0.56 0.0" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="3f8d5599-1d6b-4c21-9ea9-c876f128452f" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="Name" type="LSString" value="LEAFY_MESH_M_Autumn" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.61" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_M.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_M.Dummy_Root.0" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						
+
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="1c1d09f8-aec2-4e46-a477-d8769c67ccb3" />
+							<attribute id="ObjectID" type="FixedString" value="LEAFY_MESH_M.Proxy_DRYAD_F_Leaves_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Private_Parts" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="ModestyLeaf" />
+						</node>
+
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.21 1.11 0.14" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.21 0.0 -0.13" />
+					<attribute id="Center" type="fvec3" value="-0.0 0.56 0.0" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="2bafd45c-1759-4215-825d-1eb8919ac04a" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="Name" type="LSString" value="LEAFY_MESH_M_Winter" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.61" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_M.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_M.Dummy_Root.0" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						
+
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="7ecaaf33-1782-44e3-aaf5-c1db0b47af14" />
+							<attribute id="ObjectID" type="FixedString" value="LEAFY_MESH_M.Proxy_DRYAD_F_Leaves_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Private_Parts" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="ModestyLeaf" />
+						</node>
+
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.23 1.57 0.19" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.23 0.0 -0.19" />
+					<attribute id="Center" type="fvec3" value="-0.0 0.78 -0.0" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="fdb57251-9bdb-4ed2-ba2a-cdd02bb6f64f" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="Name" type="LSString" value="LEAFY_MESH_FS" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.84" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_FS.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_FS.Dummy_Root.0" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						
+
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="597a37e0-3d0d-4144-8c06-34aa5864afbd" />
+							<attribute id="ObjectID" type="FixedString" value="LEAFY_MESH_FS.Proxy_DRYAD_F_Leaves_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Nipple Covers" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Private_Parts" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="ModestyLeaf" />
+						</node>
+
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.23 1.57 0.19" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.23 0.0 -0.19" />
+					<attribute id="Center" type="fvec3" value="-0.0 0.78 -0.0" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="796fdd31-7544-4c47-8f6b-f1bbf5bcf06b" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="Name" type="LSString" value="LEAFY_MESH_FS_Summer" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.84" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_FS.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_FS.Dummy_Root.0" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						
+
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="a4de6ef8-15e7-4303-a32e-36a82e936539" />
+							<attribute id="ObjectID" type="FixedString" value="LEAFY_MESH_FS.Proxy_DRYAD_F_Leaves_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Nipple Covers" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Private_Parts" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="ModestyLeaf" />
+						</node>
+
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.23 1.57 0.19" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.23 0.0 -0.19" />
+					<attribute id="Center" type="fvec3" value="-0.0 0.78 -0.0" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="f7a797cd-785d-4510-9515-79263b539895" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="Name" type="LSString" value="LEAFY_MESH_FS_Autumn" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.84" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_FS.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_FS.Dummy_Root.0" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						
+
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="1c1d09f8-aec2-4e46-a477-d8769c67ccb3" />
+							<attribute id="ObjectID" type="FixedString" value="LEAFY_MESH_FS.Proxy_DRYAD_F_Leaves_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Nipple Covers" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Private_Parts" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="ModestyLeaf" />
+						</node>
+
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.23 1.57 0.19" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.23 0.0 -0.19" />
+					<attribute id="Center" type="fvec3" value="-0.0 0.78 -0.0" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="2c1aea8a-416f-408b-bac5-d55c01a6084a" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="Name" type="LSString" value="LEAFY_MESH_FS_Winter" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.84" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_FS.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_FS.Dummy_Root.0" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						
+
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="7ecaaf33-1782-44e3-aaf5-c1db0b47af14" />
+							<attribute id="ObjectID" type="FixedString" value="LEAFY_MESH_FS.Proxy_DRYAD_F_Leaves_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Nipple Covers" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Private_Parts" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="ModestyLeaf" />
+						</node>
+
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.23 1.26 0.18" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.23 0.0 -0.14" />
+					<attribute id="Center" type="fvec3" value="-0.0 0.63 0.02" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="fb7da380-ea2e-4689-b187-aafc6ae64c5f" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="Name" type="LSString" value="LEAFY_MESH_MS" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.69" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_MS.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_MS.Dummy_Root.0" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						
+
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="597a37e0-3d0d-4144-8c06-34aa5864afbd" />
+							<attribute id="ObjectID" type="FixedString" value="LEAFY_MESH_MS.Proxy_DRYAD_F_Leaves_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Private_Parts" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="ModestyLeaf" />
+						</node>
+
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.23 1.26 0.18" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.23 0.0 -0.14" />
+					<attribute id="Center" type="fvec3" value="-0.0 0.63 0.02" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="63d8a83c-159a-4f28-8600-7a436f3da7b4" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="Name" type="LSString" value="LEAFY_MESH_MS_Summer" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.69" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_MS.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_MS.Dummy_Root.0" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						
+
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="a4de6ef8-15e7-4303-a32e-36a82e936539" />
+							<attribute id="ObjectID" type="FixedString" value="LEAFY_MESH_MS.Proxy_DRYAD_F_Leaves_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Private_Parts" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="ModestyLeaf" />
+						</node>
+
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.23 1.26 0.18" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.23 0.0 -0.14" />
+					<attribute id="Center" type="fvec3" value="-0.0 0.63 0.02" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="ab02e3f2-d88e-428c-8be1-5cc3d91fc762" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="Name" type="LSString" value="LEAFY_MESH_MS_Autumn" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.69" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_MS.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_MS.Dummy_Root.0" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						
+
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="1c1d09f8-aec2-4e46-a477-d8769c67ccb3" />
+							<attribute id="ObjectID" type="FixedString" value="LEAFY_MESH_MS.Proxy_DRYAD_F_Leaves_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Private_Parts" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="ModestyLeaf" />
+						</node>
+
+					</children>
+				</node>
+
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.23 1.26 0.18" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.23 0.0 -0.14" />
+					<attribute id="Center" type="fvec3" value="-0.0 0.63 0.02" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="ba4a215d-db48-4f96-89d6-f4a7f3abde31" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="22" />
+					<attribute id="Name" type="LSString" value="LEAFY_MESH_MS_Winter" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.69" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_MS.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Dryad_Race/LeafyDryadUnderwear_LEAFY_MESH_MS.Dummy_Root.0" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						
+
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="7ecaaf33-1782-44e3-aaf5-c1db0b47af14" />
+							<attribute id="ObjectID" type="FixedString" value="LEAFY_MESH_MS.Proxy_DRYAD_F_Leaves_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Private_Parts" />
+						</node>
+
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="ModestyLeaf" />
+						</node>
+
+					</children>
+				</node>
+
+			</children>
+		</node>
+	</region>	
+</save>

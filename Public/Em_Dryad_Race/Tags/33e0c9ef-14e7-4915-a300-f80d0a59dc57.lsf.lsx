@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="58" lslib_meta="v1,bswap_guids" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="Character is a dryad" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h63aa15b0g0767g449agb6b5gf722fabde4a9" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hb6045cfbg3c97g4b1cgaf57gaf508f601e2b" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="REALLY_DRYAD" />
+			<attribute id="UUID" type="guid" value="33e0c9ef-14e7-4915-a300-f80d0a59dc57" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Race" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="PlayerRace" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

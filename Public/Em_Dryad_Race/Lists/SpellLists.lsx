@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="3" revision="0" build="300"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>               
+                <node id="SpellList">Spell list - Cantrips
+                    <attribute id="Comment" type="LSString" value="Custom Race Spelllist Racial Spells"/> 
+                    <attribute id="Spells" type="LSString" value="Shout_BladeWard;Target_Friends;Target_TrueStrike;Projectile_AcidSplash;Target_DancingLights;Target_Light;Target_MageHand;Target_MinorIllusion;Projectile_PoisonSpray;Target_Guidance;Target_Resistance;Target_ThornWhip;Target_ViciousMockery"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="4d519463-7eb5-4205-938d-7c2fad76c65a"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">Spell list - Single cantrip - Entangle
+                    <attribute id="Comment" type="LSString" value="Custom Race Spelllist Single Cantrip"/> 
+                    <attribute id="Spells" type="LSString" value="Em_Target_Entangle_Dryad"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="c1a8a075-0083-4a4c-a3a0-ca95e51ce30e"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">Spell list - Single cantrip - Fire Bolt
+                    <attribute id="Comment" type="LSString" value="Custom Race Spelllist Single Cantrip"/> 
+                    <attribute id="Spells" type="LSString" value="Projectile_FireBolt"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="e4a88835-8d9a-43e6-869c-953f555e9b85"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">Spell list - Single cantrip - Shocking Grasp
+                    <attribute id="Comment" type="LSString" value="Custom Race Spelllist Single Cantrip"/> 
+                    <attribute id="Spells" type="LSString" value="Target_ShockingGrasp"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="5c77ee85-6d53-43f3-a505-7fcef4e349c3"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">Spell list - Single cantrip - Ray of Frost
+                    <attribute id="Comment" type="LSString" value="Custom Race Spelllist Single Cantrip"/> 
+                    <attribute id="Spells" type="LSString" value="Projectile_RayOfFrost"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="a2df7887-c1af-46db-801b-0ec6f4285d74"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">Spell list - Singular higher level spell - Summon Wood Woad
+                    <attribute id="Comment" type="LSString" value="Custom Race Spelllist Racial Single Spell"/> 
+                    <attribute id="Spells" type="LSString" value="Em_Target_Summon_WoodWoad_Dryad"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="3ad901c9-b564-41c1-9e41-f7278a057ea4"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">Spell list - Singular higher level spell - Conjure Woodland Beings
+                    <attribute id="Comment" type="LSString" value="Custom Race Spelllist Racial Single Spell"/> 
+                    <attribute id="Spells" type="LSString" value="Target_ConjureWoodlandBeings"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="1929a333-be68-43c4-84c4-cb93f8539fde"/> the UUID, needs to be unique
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="307"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="FightingStyle_Archery,FightingStyle_Defense,FightingStyle_Dueling,FightingStyle_GreatWeaponFighting,FightingStyle_Protection,FightingStyle_TwoWeaponFighting"/> the passive list
+                    <attribute id="UUID" type="guid" value="cf41ff49-5229-4f3b-a6b6-d31b3b5e4a78"/> the UUID, needs to be unique
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

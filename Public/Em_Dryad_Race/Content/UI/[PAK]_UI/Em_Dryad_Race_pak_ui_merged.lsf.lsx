@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" />
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="fe50b709-4c26-4074-9ed0-ffcddaca4ab1" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Em_Dryad_Race_Icons" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Textures/Icons/touching_acorn_icon.dds" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Em_Dryad_Race_icons_items" />
+					<attribute id="Type" type="int64" value="0" />
+				</node>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="560ea744-01fd-4984-8169-8b7611384a82" /> <!-- The .dds's UUID; should match the UUID listed in the ModName_Icons.lsx -->
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Em_Dryad_Race_CCIcons" /> <!-- The name of the .dds file but without the ".dds" part -->
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Textures/Icons/Em_Dryad_Race_CCIcons.dds" /> <!-- The path to the .dds file; should match the path listed in the ModName_Icons.lsx -->
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Em_Dryad_Race_Icons" /> <!--The name of the ModName_Icons.lsx but without the ".lsx" -->
+					<attribute id="Type" type="int64" value="0" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

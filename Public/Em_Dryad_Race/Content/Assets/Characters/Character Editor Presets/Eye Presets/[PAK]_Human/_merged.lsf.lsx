@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" lslib_meta="v1,bswap_guids" />
+	<region id="MaterialPresetBank">
+		<node id="MaterialPresetBank">
+			<children>
+				<node id="Resource"> Green 1
+					<attribute id="ID" type="FixedString" value="73a0c9f9-e76c-4ec7-bff7-3d7f39be6430" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Em_Dryad_Eyes_Green_1" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855929" />
+					<children>
+						<node id="Presets">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets" />
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Redness" />
+									<attribute id="Value" type="float" value="1.5" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="IrisEdgeStrength" />
+									<attribute id="Value" type="float" value="0.8" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="SecondaryColorIntensity" />
+									<attribute id="Value" type="float" value="1" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="FxMasking" />
+									<attribute id="Value" type="float" value="0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="GlowBrightness" />
+									<attribute id="Value" type="float" value="0.75" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_IrisColour" />
+									<attribute id="Value" type="fvec3" value="0.8045591 1 0.03155139" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_IrisSecondaryColour" />
+									<attribute id="Value" type="fvec3" value="0.8045591 1 0.03155139" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_BloodColour" />
+									<attribute id="Value" type="fvec3" value="0.2 0.04313726 0.03529412" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_ScleraColour" />
+									<attribute id="Value" type="fvec3" value="0.3590734 0.2849472 0.25715" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_GlowColour" />
+									<attribute id="Value" type="fvec3" value="0.8045591 1 0.03155139" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> Green 2
+					<attribute id="ID" type="FixedString" value="f86330ed-fcf8-4a5e-b240-49a50de1cb01" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Em_Dryad_Eyes_Green_2" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855929" />
+					<children>
+						<node id="Presets">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets" />
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Redness" />
+									<attribute id="Value" type="float" value="1.5" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="IrisEdgeStrength" />
+									<attribute id="Value" type="float" value="0.8" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="SecondaryColorIntensity" />
+									<attribute id="Value" type="float" value="1" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="FxMasking" />
+									<attribute id="Value" type="float" value="0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="GlowBrightness" />
+									<attribute id="Value" type="float" value="0.75" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_IrisColour" />
+									<attribute id="Value" type="fvec3" value="0.3 1 0.5" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_IrisSecondaryColour" />
+									<attribute id="Value" type="fvec3" value="0.3 1 0.5" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_BloodColour" />
+									<attribute id="Value" type="fvec3" value="0.2 0.04313726 0.03529412" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_ScleraColour" />
+									<attribute id="Value" type="fvec3" value="0.3590734 0.2849472 0.25715" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_GlowColour" />
+									<attribute id="Value" type="fvec3" value="0.3 1 0.5" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> Red 1
+					<attribute id="ID" type="FixedString" value="bb2c829e-a7ae-44fa-bd26-65232701d504" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Em_Dryad_Eyes_Red_1" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855929" />
+					<children>
+						<node id="Presets">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets" />
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Redness" />
+									<attribute id="Value" type="float" value="1.5" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="IrisEdgeStrength" />
+									<attribute id="Value" type="float" value="0.8" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="SecondaryColorIntensity" />
+									<attribute id="Value" type="float" value="1" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="FxMasking" />
+									<attribute id="Value" type="float" value="0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="GlowBrightness" />
+									<attribute id="Value" type="float" value="0.75" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_IrisColour" />
+									<attribute id="Value" type="fvec3" value="1 0.1045591 0.03155139" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_IrisSecondaryColour" />
+									<attribute id="Value" type="fvec3" value="1 0.1045591 0.03155139" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_BloodColour" />
+									<attribute id="Value" type="fvec3" value="0.2 0.04313726 0.03529412" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_ScleraColour" />
+									<attribute id="Value" type="fvec3" value="0.3590734 0.2849472 0.25715" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_GlowColour" />
+									<attribute id="Value" type="fvec3" value="1 0 0" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> Orange 1
+					<attribute id="ID" type="FixedString" value="6166837c-a3f6-402b-b8e7-f15685797e70" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Em_Dryad_Eyes_Orange_1" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855929" />
+					<children>
+						<node id="Presets">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets" />
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Redness" />
+									<attribute id="Value" type="float" value="1.5" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="IrisEdgeStrength" />
+									<attribute id="Value" type="float" value="0.8" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="SecondaryColorIntensity" />
+									<attribute id="Value" type="float" value="1" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="FxMasking" />
+									<attribute id="Value" type="float" value="0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="GlowBrightness" />
+									<attribute id="Value" type="float" value="0.75" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_IrisColour" />
+									<attribute id="Value" type="fvec3" value="1 0.25 0" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_IrisSecondaryColour" />
+									<attribute id="Value" type="fvec3" value="1 0.25 0" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_BloodColour" />
+									<attribute id="Value" type="fvec3" value="0.2 0.04313726 0.03529412" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_ScleraColour" />
+									<attribute id="Value" type="fvec3" value="0.3590734 0.2849472 0.25715" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_GlowColour" />
+									<attribute id="Value" type="fvec3" value="1 0.25 0" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> Blue 1
+					<attribute id="ID" type="FixedString" value="863e225b-456e-4985-9c70-3c0be99e61c6" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Em_Dryad_Eyes_Blue_1" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855929" />
+					<children>
+						<node id="Presets">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ColorPreset">
+									<attribute id="ForcePresetValues" type="bool" value="True" />
+									<attribute id="GroupName" type="FixedString" value="" />
+									<attribute id="MaterialPresetResource" type="FixedString" value="" />
+								</node>
+								<node id="MaterialPresets" />
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Redness" />
+									<attribute id="Value" type="float" value="1.5" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="IrisEdgeStrength" />
+									<attribute id="Value" type="float" value="0.8" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="SecondaryColorIntensity" />
+									<attribute id="Value" type="float" value="1" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="FxMasking" />
+									<attribute id="Value" type="float" value="0" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="GlowBrightness" />
+									<attribute id="Value" type="float" value="0.75" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_IrisColour" />
+									<attribute id="Value" type="fvec3" value="0 0.25 1" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_IrisSecondaryColour" />
+									<attribute id="Value" type="fvec3" value="0 0.25 1" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_BloodColour" />
+									<attribute id="Value" type="fvec3" value="0.2 0.04313726 0.03529412" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_ScleraColour" />
+									<attribute id="Value" type="fvec3" value="0.3590734 0.2849472 0.25715" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="True" />
+									<attribute id="Custom" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Parameter" type="FixedString" value="Eyes_GlowColour" />
+									<attribute id="Value" type="fvec3" value="0 0.25 1" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<!--F Guardian-->
+        		<node id="GameObjects">
+                    <attribute id="AnimationSetResourceID" type="FixedString" value="955b1b70-725c-539b-c870-ed2fcccef2c7" />
+                    <attribute id="CharacterVisualResourceID" type="FixedString" value="e5277d90-16ea-49c7-aced-bdef87ed2d8b" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb6045cfbg3c97g4b1cgaf57gaf508f601e2b" version="2" />
+                    <attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
+                    <attribute id="Flag" type="int32" value="0" />
+                    <attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
+                    <attribute id="LevelName" type="FixedString" value="" />
+                    <attribute id="MapKey" type="FixedString" value="7061a14b-0e4d-4f6f-b378-59a08f32df71" /> must be unique
+                    <attribute id="Name" type="LSString" value="Dryad_Female_Daisy" />
+                    <attribute id="ParentTemplateId" type="FixedString" value="915b0e4e-b9f4-445e-b47e-05459e06b292" />
+                    <attribute id="Type" type="FixedString" value="character" />
+                    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<attribute id="Race" type="guid" value="5f2f72a1-912e-4b22-8085-60ac11e43606" /> define race as Custom Race
+                    <children>
+						<node id="LocomotionParams" />
+                        <node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" /> 
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="0eb01438-0f1c-4b68-9acb-c16b4fd95864" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+                    </children>
+                </node>
+				<!--M Guardian-->
+        		<node id="GameObjects">
+                    <attribute id="AnimationSetResourceID" type="FixedString" value="955b1b70-725c-539b-c870-ed2fcccef2c7" />
+                    <attribute id="CharacterVisualResourceID" type="FixedString" value="89a6df60-f301-4a14-81fe-b2b90a42e462" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb6045cfbg3c97g4b1cgaf57gaf508f601e2b" version="2" />
+                    <attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
+                    <attribute id="Flag" type="int32" value="0" />
+                    <attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
+                    <attribute id="LevelName" type="FixedString" value="" />
+                    <attribute id="MapKey" type="FixedString" value="f951180a-e492-4948-89f9-e2d5dc97e950" /> must be unique
+                    <attribute id="Name" type="LSString" value="Dryad_Male_Daisy" />
+                    <attribute id="ParentTemplateId" type="FixedString" value="52800a5e-a41e-4521-a06a-52ef6a061e63" />
+                    <attribute id="Type" type="FixedString" value="character" />
+                    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<attribute id="Race" type="guid" value="5f2f72a1-912e-4b22-8085-60ac11e43606" /> define race as Custom Race
+                    <children>
+						<node id="LocomotionParams" />
+                        <node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" /> 
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="0eb01438-0f1c-4b68-9acb-c16b4fd95864" /> Custom Sub Race tag
+								</node>
+							</children>
+						</node>
+                    </children>
+                </node>
+			</children>
+		</node>
+	</region>
+</save>

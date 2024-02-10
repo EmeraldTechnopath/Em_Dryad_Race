@@ -1,0 +1,6 @@
+//acorn
+new entry "ACORN_OF_FAR_TRAVEL"
+type "Object"
+using "_Loot"
+data "RootTemplate" "8fe0e158-56f4-45d2-ad9a-72f5afbd4019"
+data "StatusInInventory" "Dryad_Touching_Acorn"

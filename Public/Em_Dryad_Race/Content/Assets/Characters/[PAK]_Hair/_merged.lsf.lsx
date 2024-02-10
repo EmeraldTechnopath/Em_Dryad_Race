@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="8" build="2" lslib_meta="v1,bswap_guids" />
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1644483 1.950027 0.1588906" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1682484 1.579714 -0.1309586" />
+					<attribute id="Center" type="fvec3" value="-0.00190004 1.764871 0.01396601" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="51720cff-6543-7adc-b0de-3699ba1f3369" />
+					<!-- ^ Either use from a hair you like (how much frizz it has, how much wind affects it, etc) or make your own.-->
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="477f54b8-bfdd-4601-8ede-f2f7a044317a" />
+					<!-- ^ Make a new UUID and make sure it matches VisualResourceID in CharacterCreationAppearanceVisuals. -->
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Em_Gorgon_x_Dryad.GR2" />
+					<!-- ^ Name of your GR2. -->
+					<attribute id="NeedsSkeletonRemap" type="bool" value="True" />
+					<!-- ^ Change to false if not auto-snap. -->
+					<attribute id="Radius" type="float" value="0.2880241" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="89e0d6e3-276f-1d25-d00f-fce38916dcf8" />
+					<!-- ^ Use from a scalp you like. -->
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<!-- ^ If the hair you're referencing uses physics, copy the SkeletonResource ID here. -->
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Hair" />
+					<!-- ^ This should stay as Hair... unless you're using my template to make horns or something. No judgement. :) -->
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/Em_Gorgon_x_Dryad.GR2" />
+					<!-- ^ Make sure this matches your folder structure. -->
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Dryad_Race/Em_Gorgon_x_Dryad.Dummy_Root.0" />
+					<!-- ^ Make sure this matches your folder structure, but with .Dummy_Root.0 at the end instead. -->
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="Base" />
+						<node id="Objects"> Dryad
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9704ad3b-e9d4-26e3-0270-8073c1bb293e" />
+							<!-- ^ Use from a hair material you like. -->
+							<attribute id="ObjectID" type="FixedString" value="Em_Gorgon_x_Dryad.Em_New_Hair_Template_Mesh.0" />
+							<!-- ^ Make sure this matches your GR2 name. The number at the end needs to be increased by 1 for each new Objects node you create. -->
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+						<node id="Objects"> Gorgon
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4abd91b7-39e6-99bb-7167-f6b1efde8ffb" />
+							<!-- ^ Use from a hair material you like. -->
+							<attribute id="ObjectID" type="FixedString" value="Em_Gorgon_x_Dryad.Em_New_Hair_Template_Mesh.1" />
+							<!-- ^ Make sure this matches your GR2 name. The number at the end needs to be increased by 1 for each new Objects node you create. -->
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
