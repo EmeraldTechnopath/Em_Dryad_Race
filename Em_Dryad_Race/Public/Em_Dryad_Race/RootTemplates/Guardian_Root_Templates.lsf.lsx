@@ -15,7 +15,7 @@
                     <attribute id="LevelName" type="FixedString" value="" />
                     <attribute id="MapKey" type="FixedString" value="7061a14b-0e4d-4f6f-b378-59a08f32df71" /> must be unique
                     <attribute id="Name" type="LSString" value="Dryad_Female_Daisy" />
-                    <attribute id="ParentTemplateId" type="FixedString" value="915b0e4e-b9f4-445e-b47e-05459e06b292" />
+                    <attribute id="ParentTemplateId" type="FixedString" value="915b0e4e-b9f4-445e-b47e-05459e06b292" /> link to BASE_Main_Female_Dryad
                     <attribute id="Type" type="FixedString" value="character" />
                     <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<attribute id="Race" type="guid" value="5f2f72a1-912e-4b22-8085-60ac11e43606" /> define race as Custom Race
@@ -51,7 +51,7 @@
                     <attribute id="LevelName" type="FixedString" value="" />
                     <attribute id="MapKey" type="FixedString" value="f951180a-e492-4948-89f9-e2d5dc97e950" /> must be unique
                     <attribute id="Name" type="LSString" value="Dryad_Male_Daisy" />
-                    <attribute id="ParentTemplateId" type="FixedString" value="52800a5e-a41e-4521-a06a-52ef6a061e63" />
+                    <attribute id="ParentTemplateId" type="FixedString" value="52800a5e-a41e-4521-a06a-52ef6a061e63" /> link to BASE_Main_Male_Dryad
                     <attribute id="Type" type="FixedString" value="character" />
                     <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<attribute id="Race" type="guid" value="5f2f72a1-912e-4b22-8085-60ac11e43606" /> define race as Custom Race
