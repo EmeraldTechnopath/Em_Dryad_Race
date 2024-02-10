@@ -14,7 +14,7 @@
                     <attribute id="RaceUUID" type="guid" value="c503ab6b-6bdf-46f6-859b-288a93aa9e99"/>
                     <attribute id="SlotName" type="FixedString" value="Private Parts"/>
                     <attribute id="UUID" type="guid" value="f305ca61-c575-4096-96bc-bcfdf711887d"/>
-                    <attribute id="VisualResource" type="guid" value="04649972-9e6b-1511-337e-74977ed693b0"/>
+                    <attribute id="VisualResource" type="guid" value="04649972-9e6b-1511-337e-74977ed693b0"/> leaf
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
@@ -30,7 +30,7 @@
                     <attribute id="RaceUUID" type="guid" value="c503ab6b-6bdf-46f6-859b-288a93aa9e99"/>
                     <attribute id="SlotName" type="FixedString" value="Private Parts"/>
                     <attribute id="UUID" type="guid" value="b0e5dc31-93d6-410c-bf49-d5ccf01bbfc8"/>
-                    <attribute id="VisualResource" type="guid" value="dec25989-ed08-895e-4ae0-5c9b44352bf0"/>
+                    <attribute id="VisualResource" type="guid" value="dec25989-ed08-895e-4ae0-5c9b44352bf0"/> leaf
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
@@ -46,7 +46,7 @@
                     <attribute id="RaceUUID" type="guid" value="c503ab6b-6bdf-46f6-859b-288a93aa9e99"/>
                     <attribute id="SlotName" type="FixedString" value="Private Parts"/>
                     <attribute id="UUID" type="guid" value="6c840c89-a366-404f-8783-5a9fed712c2a"/>
-                    <attribute id="VisualResource" type="guid" value="75f84bfa-4fd5-2c3f-9489-48103bc29d10"/>
+                    <attribute id="VisualResource" type="guid" value="75f84bfa-4fd5-2c3f-9489-48103bc29d10"/> leaf
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
@@ -62,7 +62,7 @@
                     <attribute id="RaceUUID" type="guid" value="c503ab6b-6bdf-46f6-859b-288a93aa9e99"/>
                     <attribute id="SlotName" type="FixedString" value="Private Parts"/>
                     <attribute id="UUID" type="guid" value="e6283f95-bf1c-44d2-9ce5-8ff60e27d187"/>
-                    <attribute id="VisualResource" type="guid" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a"/>
+                    <attribute id="VisualResource" type="guid" value="333cdac8-1d3c-85f3-8b4c-30e72681d93a"/> leaf
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="a0738fdf-ca0c-446f-a11d-6211ecac3291"/>
