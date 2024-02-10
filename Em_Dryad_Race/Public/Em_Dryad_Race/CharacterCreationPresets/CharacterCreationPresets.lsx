@@ -7,7 +7,7 @@
 
         <!--Spring-->
 
-				<node id="CharacterCreationPreset">
+				<node id="CharacterCreationPreset"> F
           <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
           <attribute id="BodyType" type="uint8" value="1"/> 1 means wimmin, 0 means man
           <attribute id="CloseUpA" type="LSString" value="ELF_F_Camera_Closeup_A"/> do not touch these three, cameras for in CC
@@ -15,11 +15,11 @@
           <attribute id="Overview" type="LSString" value="ELF_F_Camera_Overview_A"/>  do not touch these three, cameras for in CC
           <attribute id="RaceUUID" type="guid" value="c503ab6b-6bdf-46f6-859b-288a93aa9e99"/> base Custom Main race
           <attribute id="RootTemplate" type="guid" value="d743b68b-6f19-42d6-b684-5a16646aa51d"/> roottemplates 
-					<attribute id="SubRaceUUID" type="guid" value="5f2f72a1-912e-4b22-8085-60ac11e43606"/>  your subrace uuid
+					<attribute id="SubRaceUUID" type="guid" value="5f2f72a1-912e-4b22-8085-60ac11e43606"/>  your subrace uuid, 00000000-0000-0000-0000-000000000000 if no subrace
           <attribute id="UUID" type="guid" value="ebae82cc-9a62-4118-a503-26378e1a75c4"/> must be unique
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> do not touch
         </node>
-				<node id="CharacterCreationPreset">
+				<node id="CharacterCreationPreset"> M
           <attribute id="BodyShape" type="uint8" value="0"/>
           <attribute id="BodyType" type="uint8" value="0"/>
           <attribute id="CloseUpA" type="LSString" value="ELF_M_Camera_Closeup_A"/>
@@ -31,7 +31,7 @@
           <attribute id="UUID" type="guid" value="b4d9113e-871a-4fc0-8e58-77b0c5b97432"/>
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
         </node>
-				<node id="CharacterCreationPreset">
+				<node id="CharacterCreationPreset"> FS
           <attribute id="BodyShape" type="uint8" value="1"/>
           <attribute id="BodyType" type="uint8" value="1"/>
           <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
@@ -43,7 +43,7 @@
           <attribute id="UUID" type="guid" value="9cd9d70c-6563-4cc2-a793-f9747a93dd28"/>
           <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
         </node>
-				<node id="CharacterCreationPreset">
+				<node id="CharacterCreationPreset"> MS
           <attribute id="BodyShape" type="uint8" value="1"/>
           <attribute id="BodyType" type="uint8" value="0"/>
           <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
