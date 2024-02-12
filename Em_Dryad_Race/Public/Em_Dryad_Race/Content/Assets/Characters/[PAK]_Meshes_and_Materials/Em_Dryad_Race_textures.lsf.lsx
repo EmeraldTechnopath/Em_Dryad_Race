@@ -17,6 +17,19 @@
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144255925564211200" />
 				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="ae84c7c6-2da8-4664-a52a-46f87e0cd855" />
+					<attribute id="Name" type="LSString" value="DRYAD_F_Body_Glowtest_BMA" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/DRYAD_F_Body_Glowtest_BMA.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="DRYAD_F_Body_Glowtest_BMA" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144255925564211200" />
+				</node>
 			</children>
 		</node>
 	</region>

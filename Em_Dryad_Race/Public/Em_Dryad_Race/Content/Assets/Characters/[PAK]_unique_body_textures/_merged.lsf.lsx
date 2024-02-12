@@ -10,16 +10,48 @@
 					<attribute id="ID" type="FixedString" value="0cd6c7a4-755a-41e6-97ce-c7c4da2238e0" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Em_DRYAD_Spring_F_Body_unique" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_HMVY_CLEA_GM_Detail_MakeUp.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_GM.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
 					<children>
 						<node id="ScalarParameters">
-							<attribute id="BaseValue" type="float" value="15" />
+							<attribute id="BaseValue" type="float" value="1" />
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="GlowMultiplier" />
+							<attribute id="Value" type="float" value="0.75" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="40" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
 							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 							<attribute id="ParameterName" type="FixedString" value="DetailNormalTiling" />
-							<attribute id="Value" type="float" value="50" />
+							<attribute id="Value" type="float" value="40" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="08Dirt&amp;Blood&amp;Sweat" />
+							<attribute id="ParameterName" type="FixedString" value="Sweat" />
+							<attribute id="Value" type="float" value="0" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="11IllithidTransform" />
+							<attribute id="ParameterName" type="FixedString" value="IllithidColorWeight" />
+							<attribute id="Value" type="float" value="0" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="isGenitals" />
+							<attribute id="Value" type="float" value="0" />
 						</node>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="0" />
@@ -71,6 +103,14 @@
 						</node>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="1" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="08Dirt&amp;Blood&amp;Sweat" />
+							<attribute id="ParameterName" type="FixedString" value="Sweat_Sharpness" />
+							<attribute id="Value" type="float" value="1" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="1" />
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
@@ -106,11 +146,43 @@
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+							<attribute id="ParameterName" type="FixedString" value="Vitiligo" />
+							<attribute id="Value" type="float" value="0" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+							<attribute id="ParameterName" type="FixedString" value="VitiligoWeight" />
+							<attribute id="Value" type="float" value="0.5" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+							<attribute id="ParameterName" type="FixedString" value="Freckles" />
+							<attribute id="Value" type="float" value="0" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.1" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+							<attribute id="ParameterName" type="FixedString" value="FrecklesWeight" />
+							<attribute id="Value" type="float" value="0.1" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 							<attribute id="ParameterName" type="FixedString" value="MelaninRemovalAmount" />
 							<attribute id="Value" type="float" value="0" />
 						</node>
 						<node id="ScalarParameters">
-							<attribute id="BaseValue" type="float" value="0.7" />
+							<attribute id="BaseValue" type="float" value="1" />
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
@@ -123,39 +195,47 @@
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 							<attribute id="ParameterName" type="FixedString" value="YellowingAmount" />
-							<attribute id="Value" type="float" value="0.3" />
+							<attribute id="Value" type="float" value="0.2" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="1" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="False" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ParameterName" type="FixedString" value="doDrawTattoo" />
+							<attribute id="Value" type="float" value="1" />
 						</node>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="0" />
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="05Makeup" />
-							<attribute id="ParameterName" type="FixedString" value="LipsMakeupIntensity" />
+							<attribute id="GroupName" type="FixedString" value="04Tattoo" />
+							<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
 							<attribute id="Value" type="float" value="0" />
+						</node>
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="1" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="04Tattoo" />
+							<attribute id="ParameterName" type="FixedString" value="TattooCurvatureInfluence" />
+							<attribute id="Value" type="float" value="1" />
 						</node>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="0" />
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="05Makeup" />
-							<attribute id="ParameterName" type="FixedString" value="MakeUpIndex" />
+							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+							<attribute id="ParameterName" type="FixedString" value="CLEA_Makeup_Weight" />
 							<attribute id="Value" type="float" value="0" />
 						</node>
 						<node id="ScalarParameters">
-							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="BaseValue" type="float" value="1" />
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="05Makeup" />
-							<attribute id="ParameterName" type="FixedString" value="MakeupIntensity" />
-							<attribute id="Value" type="float" value="0" />
-						</node>
-						<node id="ScalarParameters">
-							<attribute id="BaseValue" type="float" value="0" />
-							<attribute id="Enabled" type="bool" value="False" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="08Dirt&amp;Blood&amp;Sweat" />
-							<attribute id="ParameterName" type="FixedString" value="Sweat" />
-							<attribute id="Value" type="float" value="0" />
+							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+							<attribute id="ParameterName" type="FixedString" value="NonSkin_Weight" />
+							<attribute id="Value" type="float" value="1" />
 						</node>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="0" />
@@ -174,50 +254,44 @@
 							<attribute id="Value" type="float" value="0.2" />
 						</node>
 						<node id="ScalarParameters">
-							<attribute id="BaseValue" type="float" value="1" />
+							<attribute id="BaseValue" type="float" value="0" />
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="05Makeup" />
-							<attribute id="ParameterName" type="FixedString" value="EyesMakeupMetalness" />
-							<attribute id="Value" type="float" value="1" />
+							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+							<attribute id="ParameterName" type="FixedString" value="NonSkinMetalness" />
+							<attribute id="Value" type="float" value="0" />
 						</node>
 						<node id="ScalarParameters">
-							<attribute id="BaseValue" type="float" value="1" />
+							<attribute id="BaseValue" type="float" value="0" />
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="05Makeup" />
-							<attribute id="ParameterName" type="FixedString" value="LipsMakeupRoughness" />
-							<attribute id="Value" type="float" value="1" />
+							<attribute id="GroupName" type="FixedString" value="04Tattoo" />
+							<attribute id="ParameterName" type="FixedString" value="TattooMetalness" />
+							<attribute id="Value" type="float" value="0" />
 						</node>
 						<node id="ScalarParameters">
-							<attribute id="BaseValue" type="float" value="0.5" />
+							<attribute id="BaseValue" type="float" value="0.56" />
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="05Makeup" />
-							<attribute id="ParameterName" type="FixedString" value="MakeupRoughness" />
-							<attribute id="Value" type="float" value="0.5" />
+							<attribute id="GroupName" type="FixedString" value="TMP" />
+							<attribute id="ParameterName" type="FixedString" value="TMP_BODY_ROUGH" />
+							<attribute id="Value" type="float" value="0.56" />
 						</node>
 						<node id="ScalarParameters">
-							<attribute id="BaseValue" type="float" value="1" />
-							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="BaseValue" type="float" value="0" />
+							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="" />
-							<attribute id="ParameterName" type="FixedString" value="GlowMultiplier" />
-							<attribute id="Value" type="float" value="0.75" />
+							<attribute id="GroupName" type="FixedString" value="04Tattoo" />
+							<attribute id="ParameterName" type="FixedString" value="TattooRoughnessOffset" />
+							<attribute id="Value" type="float" value="0" />
 						</node>
-						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
+						<node id="ScalarParameters">
+							<attribute id="BaseValue" type="float" value="0.2" />
+							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="" />
-							<attribute id="ID" type="FixedString" value="22b3bb6d-2771-4b78-3a8d-c8c3bb44ca84" />
-							<attribute id="ParameterName" type="FixedString" value="SMSK" />
-						</node>
-						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="b0f92c55-fce6-1345-7813-d5ccca1dcf7d" />
-							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
+							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+							<attribute id="ParameterName" type="FixedString" value="CLEA_Makeup_Roughness" />
+							<attribute id="Value" type="float" value="0.2" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="False" />
@@ -229,9 +303,9 @@
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="43749997-6685-415a-9e15-ef90c4411d20" />
-							<attribute id="ParameterName" type="FixedString" value="normalmap" />
+							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
+							<attribute id="ID" type="FixedString" value="b0f92c55-fce6-1345-7813-d5ccca1dcf7d" />
+							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="False" />
@@ -244,8 +318,15 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="f94bfdfc-da22-4c3a-8259-1dc8a8e66c29" />
+							<attribute id="ID" type="FixedString" value="4349748a-b509-3791-57f4-7d3d0c7a710e" />
 							<attribute id="ParameterName" type="FixedString" value="CancelMSK" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
+							<attribute id="ID" type="FixedString" value="00d5a151-0833-4dba-9e27-8c54e631e2ce" />
+							<attribute id="ParameterName" type="FixedString" value="" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="False" />
@@ -269,25 +350,18 @@
 							<attribute id="ParameterName" type="FixedString" value="" />
 						</node>
 						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="4b64ef7d-d52f-482e-a4b2-e9492ca91788" />
-							<attribute id="ParameterName" type="FixedString" value="HMVY" />
+							<attribute id="GroupName" type="FixedString" value="" />
+							<attribute id="ID" type="FixedString" value="0bcdc072-5abb-851e-bc8a-160e23afcb45" />
+							<attribute id="ParameterName" type="FixedString" value="Thickness" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="" />
-							<attribute id="ID" type="FixedString" value="e0827045-c134-46ef-84d8-d4721ab9d833" />
-							<attribute id="ParameterName" type="FixedString" value="Thickness" />
-						</node>
-						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="0e77fd31-7aab-47dc-a60e-c7ef0a96869e" />
-							<attribute id="ParameterName" type="FixedString" value="CLEA" />
+							<attribute id="ID" type="FixedString" value="2efafff3-b871-35c5-49bf-4f11b5205043" />
+							<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="False" />
@@ -296,23 +370,8 @@
 							<attribute id="ID" type="FixedString" value="8f1f209a-dd37-4531-b1ee-5e81c1d169cc" />
 							<attribute id="ParameterName" type="FixedString" value="BaseColor_NonSkin" />
 						</node>
-						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
-							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="8f1f209a-dd37-4531-b1ee-5e81c1d169cc" />
-							<attribute id="ParameterName" type="FixedString" value="MakeUpAtlas" />
-						</node>
-						<node id="Vector2Parameters">
-							<attribute id="BaseValue" type="fvec2" value="4 4" />
-							<attribute id="Enabled" type="bool" value="False" />
-							<attribute id="ExportAsPreset" type="bool" value="False" />
-							<attribute id="GroupName" type="FixedString" value="05Makeup" />
-							<attribute id="ParameterName" type="FixedString" value="MakeUpAtlasUVCount" />
-							<attribute id="Value" type="fvec2" value="4 4" />
-						</node>
 						<node id="Vector3Parameters">
-							<attribute id="BaseValue" type="fvec3" value="0.8512517 0.1011452 0.002585825" />
+							<attribute id="BaseValue" type="fvec3" value="0 0 0" />
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="02 Colour" />
@@ -321,85 +380,147 @@
 							<attribute id="Value" type="fvec3" value="0.8045591 0.9828262 0.03155139" />
 						</node>
 						<node id="Vector3Parameters">
-							<attribute id="BaseValue" type="fvec3" value="0.6509804 0.007843138 0.007843138" />
-							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="BaseValue" type="fvec3" value="0.6523701 0.009021491 0.009021491" />
+							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 							<attribute id="IsColor" type="bool" value="True" />
 							<attribute id="ParameterName" type="FixedString" value="HemoglobinColor" />
-							<attribute id="Value" type="fvec3" value="0.6509804 0.007843138 0.007843138" />
+							<attribute id="Value" type="fvec3" value="0.6523701 0.009021491 0.009021491" />
 						</node>
 						<node id="Vector3Parameters">
 							<attribute id="BaseValue" type="fvec3" value="0 0.421 0.73" />
-							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 							<attribute id="IsColor" type="bool" value="True" />
 							<attribute id="ParameterName" type="FixedString" value="VeinColor" />
-							<attribute id="Value" type="fvec3" value="0 0.421 0.73" />
+							<attribute id="Value" type="fvec3" value="0 0.2673581 0.585973" />
 						</node>
 						<node id="Vector3Parameters">
-							<attribute id="BaseValue" type="fvec3" value="0.007722008 0.003907067 0.001875442" />
+							<attribute id="BaseValue" type="fvec3" value="0.007722008 0.003907067 0.00185442" />
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 							<attribute id="IsColor" type="bool" value="True" />
 							<attribute id="ParameterName" type="FixedString" value="MelaninColor" />
-							<attribute id="Value" type="fvec3" value="0.05818718 0.0160677 0.007751027" />
+							<attribute id="Value" type="fvec3" value="0.05818718 0.01698805 0.009021491" />
 						</node>
 						<node id="Vector3Parameters">
 							<attribute id="BaseValue" type="fvec3" value="1 0.7889278 0.1840635" />
-							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 							<attribute id="IsColor" type="bool" value="True" />
 							<attribute id="ParameterName" type="FixedString" value="YellowingColor" />
-							<attribute id="Value" type="fvec3" value="1 0.7889278 0.1840635" />
+							<attribute id="Value" type="fvec3" value="1 0.7969165 0.1904629" />
 						</node>
 						<node id="Vector3Parameters">
-							<attribute id="BaseValue" type="fvec3" value="0.4478708 0.1471881 0.1400502" />
+							<attribute id="BaseValue" type="fvec3" value="0.01176471 0.003921569 0.01960784" />
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="05Makeup" />
-							<attribute id="IsColor" type="bool" value="True" />
-							<attribute id="ParameterName" type="FixedString" value="Lips_Makeup_Color" />
-							<attribute id="Value" type="fvec3" value="0.4478708 0.1471881 0.1400502" />
+							<attribute id="GroupName" type="FixedString" value="11IllithidTransform" />
+							<attribute id="IsColor" type="bool" value="False" />
+							<attribute id="ParameterName" type="FixedString" value="IllithidVeinColor" />
+							<attribute id="Value" type="fvec3" value="0.01176471 0.003921569 0.01960784" />
 						</node>
 						<node id="Vector3Parameters">
-							<attribute id="BaseValue" type="fvec3" value="0.074 0.038 0.022" />
+							<attribute id="BaseValue" type="fvec3" value="0.01848423 0.02702703 0.01848423" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="04Tattoo" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="BodyTattooColor" />
+							<attribute id="Value" type="fvec3" value="0.01848423 0.02702703 0.01848423" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.01848423 0.02702703 0.01848423" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="04Tattoo" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="BodyTattooColorG" />
+							<attribute id="Value" type="fvec3" value="0.01848423 0.02702703 0.01848423" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.01848423 0.02702703 0.01848423" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="04Tattoo" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="BodyTattooColorB" />
+							<attribute id="Value" type="fvec3" value="0.01848423 0.02702703 0.01848423" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.01848423 0.02702703 0.01848423" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="04Tattoo" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="BodyTattooColorA" />
+							<attribute id="Value" type="fvec3" value="0.01848423 0.02702703 0.01848423" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.1068803 0.05512501 0.01653015" />
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="03Hair" />
 							<attribute id="IsColor" type="bool" value="True" />
-							<attribute id="ParameterName" type="FixedString" value="Eyebrow_Color" />
-							<attribute id="Value" type="fvec3" value="0.074 0.038 0.022" />
+							<attribute id="ParameterName" type="FixedString" value="Body_Hair_Color" />
+							<attribute id="Value" type="fvec3" value="0.1068803 0.05512501 0.01653015" />
 						</node>
 						<node id="Vector3Parameters">
-							<attribute id="BaseValue" type="fvec3" value="0 0 0" />
+							<attribute id="BaseValue" type="fvec3" value="0.1163311 1 0" />
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="GroupName" type="FixedString" value="05Makeup" />
+							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 							<attribute id="IsColor" type="bool" value="True" />
-							<attribute id="ParameterName" type="FixedString" value="MakeupColor" />
-							<attribute id="Value" type="fvec3" value="0 0 0" />
+							<attribute id="ParameterName" type="FixedString" value="CLEA_Makeup_Color" />
+							<attribute id="Value" type="fvec3" value="0.1163311 1 0" />
 						</node>
 						<node id="Vector3Parameters">
-							<attribute id="BaseValue" type="fvec3" value="0.1165758 0.06575388 0.04777575" />
+							<attribute id="BaseValue" type="fvec3" value="0.04439873 0.01316299 0.0006657844" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+							<attribute id="IsColor" type="bool" value="True" />
+							<attribute id="ParameterName" type="FixedString" value="NonSkinColor" />
+							<attribute id="Value" type="fvec3" value="0.04439873 0.01316299 0.0006657844" />
+						</node>
+						<node id="Vector3Parameters">
+							<attribute id="BaseValue" type="fvec3" value="0.1176471 0.06666667 0.04705882" />
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="08Dirt&amp;Blood&amp;Sweat" />
 							<attribute id="IsColor" type="bool" value="True" />
 							<attribute id="ParameterName" type="FixedString" value="DirtColor" />
-							<attribute id="Value" type="fvec3" value="0.1165758 0.06575388 0.04777575" />
+							<attribute id="Value" type="fvec3" value="0.1176471 0.06666667 0.04705882" />
 						</node>
 						<node id="Vector3Parameters">
-							<attribute id="BaseValue" type="fvec3" value="0.1303523 0.007751027 0.004116177" />
+							<attribute id="BaseValue" type="fvec3" value="0.1294118 0.007843138 0.003921569" />
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="08Dirt&amp;Blood&amp;Sweat" />
 							<attribute id="IsColor" type="bool" value="True" />
 							<attribute id="ParameterName" type="FixedString" value="Blood_Color" />
-							<attribute id="Value" type="fvec3" value="0.1303523 0.007751027 0.004116177" />
+							<attribute id="Value" type="fvec3" value="0.1294118 0.007843138 0.003921569" />
+						</node>
+						<node id="VectorParameters">
+							<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
+							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="04Tattoo" />
+							<attribute id="IsColor" type="bool" value="False" />
+							<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
+							<attribute id="Value" type="fvec4" value="0 0 0 0" />
+						</node>
+						<node id="VirtualTextureParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
+							<attribute id="ID" type="FixedString" value="eefa0aa0-34ea-be5d-8050-6b33b75096bf" />
+							<attribute id="Index" type="int32" value="0" />
+							<attribute id="ParameterName" type="FixedString" value="virtualtexture" />
 						</node>
 					</children>
 				</node>
@@ -3762,22 +3883,22 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="e96eed75-850b-4497-b077-a8f62f731bf3" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/BODY/NORMIES/FEMALE/UNIQUE_F_NKD_Body_A.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/DRYAD_UNIQUE_F_NKD_Body_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/unique_tav/BODY/NORMIES/FEMALE/UNIQUE_F_NKD_Body_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Em_Dryad_Race/DRYAD_UNIQUE_F_NKD_Body_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
 					<children>
 						<node id="Base" />
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="0cd6c7a4-755a-41e6-97ce-c7c4da2238e0" />
-							<attribute id="ObjectID" type="FixedString" value="UNIQUE_F_NKD_Body_A.UNIQUE_F_NKD_Body_A_Mesh.0" />
+							<attribute id="LOD" type="uint8" value="0" /> base
+							<attribute id="MaterialID" type="FixedString" value="1594b4da-6db1-471b-9a1a-c1ad4ecf721b" />
+							<attribute id="ObjectID" type="FixedString" value="DRYAD_UNIQUE_F_NKD_Body_A.UNIQUE_F_NKD_Body_A_Mesh.0" />
 						</node>
 						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="LOD" type="uint8" value="0" /> glow
 							<attribute id="MaterialID" type="FixedString" value="0cd6c7a4-755a-41e6-97ce-c7c4da2238e0" />
-							<attribute id="ObjectID" type="FixedString" value="UNIQUE_F_NKD_Body_A.UNIQUE_F_NKD_Body_A_Mesh_LOD1.1" />
+							<attribute id="ObjectID" type="FixedString" value="DRYAD_UNIQUE_F_NKD_Body_A.UNIQUE_F_NKD_Body_A_Mesh.1" />
 						</node>
 					</children>
 				</node>
