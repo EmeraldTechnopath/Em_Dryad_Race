@@ -24,12 +24,12 @@
                         <node id="SpeakerGroupList">
 							<children>
 								<node id="SpeakerGroup">
-									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" /> 
+									<attribute id="Object" type="guid" value="6fe77279-1bba-5cc0-a5e0-34beabd2501d" />
 								</node>
 								<node id="SpeakerGroup">
-									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+									<attribute id="Object" type="guid" value="0b378e99-5830-da47-9614-7c4aae3a1e27" />
 								</node>
-							</children>
+                    		</children>
 						</node>
 						<node id="Tags">
 							<children>
@@ -60,12 +60,12 @@
                         <node id="SpeakerGroupList">
 							<children>
 								<node id="SpeakerGroup">
-									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" /> 
+									<attribute id="Object" type="guid" value="6fe77279-1bba-5cc0-a5e0-34beabd2501d" />
 								</node>
 								<node id="SpeakerGroup">
-									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+									<attribute id="Object" type="guid" value="9817eece-ccb2-7f70-ce27-1e10bf08efa5" />
 								</node>
-							</children>
+                    		</children>
 						</node>
 						<node id="Tags">
 							<children>
