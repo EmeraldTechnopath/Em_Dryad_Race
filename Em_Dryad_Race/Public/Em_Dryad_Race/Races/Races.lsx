@@ -10,7 +10,7 @@
             <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> leave this as humanoid
             <attribute id="Name" type="FixedString" value="Em_Dryad_Race_MainRace" />       internal name for race
             <attribute id="ParentGuid" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" />      subrace of Humanoid, dont touch
-            <attribute id="ProgressionTableUUID" type="guid" value="257bb459-3a9e-4bea-b4e2-349e3a9ac3ef" />    the level up stuff under the Progressions folder, diff from subrace
+            <attribute id="ProgressionTableUUID" type="guid" value="78cb9632-c52c-47d6-8588-4779228fc892" />    the level up stuff under the Progressions folder, diff from subrace
             <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Dryad"/>
             <attribute id="RaceSoundSwitch" type="FixedString" value="Elf" />           sound it makes when you select the race
             <attribute id="UUID" type="guid" value="c503ab6b-6bdf-46f6-859b-288a93aa9e99" /> Race UUID, keep this for adding hairs etc
@@ -1956,7 +1956,7 @@
             <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> leave this as humanoid
             <attribute id="Name" type="FixedString" value="Em_Dryad_Race_SubRace_Spring" />       internal name for subrace
             <attribute id="ParentGuid" type="guid" value="c503ab6b-6bdf-46f6-859b-288a93aa9e99" />      subrace of Custom Race Main
-            <attribute id="ProgressionTableUUID" type="guid" value="8d7d65ad-ed3f-4002-acfc-70fa10d2b570" />    the level up stuff under the Progressions folder, diff from main race
+            <attribute id="ProgressionTableUUID" type="guid" value="9ac5bb2d-642b-4560-b1c8-064f79f93240" />    the level up stuff under the Progressions folder, diff from main race
             <attribute id="RaceSoundSwitch" type="FixedString" value="Elf" />           sound it makes when you select the subrace
             <attribute id="UUID" type="guid" value="5f2f72a1-912e-4b22-8085-60ac11e43606" /> Race UUID, keep this for adding hairs etc
                 <children>
