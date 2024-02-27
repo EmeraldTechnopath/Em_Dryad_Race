@@ -200,6 +200,12 @@
 						<node id="RealMaterialOverrides">
 							<children>
 
+							<!--Dryad Head-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Dryad_Head_1.Dryad_Head_1_Glow_Mesh.8" />
+									<attribute id="MapValue" type="FixedString" value="d7c94ca1-243f-42b4-8a60-e4f755915d27" />
+								</node>
+
 							<!--Elf Head/Ears-->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_A.ELF_F_NKD_Head_A_Mesh.0" />
@@ -507,7 +513,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="e0bedb85-c72e-11ef-11c9-0c2b44503581" /> This sets default head for F Spring Subrace / Dryad Head: 6ba79bf0-8485-aeff-b456-8b74ec859c3e
+							<attribute id="VisualResource" type="FixedString" value="56fefd37-2c21-450a-9f1f-166c0385e768" /> This sets default head for F Spring Subrace / Dryad Head 1
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -648,6 +654,12 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
+							<!--Dryad Head-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Dryad_Head_1.Dryad_Head_1_Glow_Mesh.8" />
+									<attribute id="MapValue" type="FixedString" value="ef9d5e2a-eb05-48a2-8d23-fdbb91753af6" />
+								</node>
+
 							<!--Elf Head/Ears-->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_A.ELF_F_NKD_Head_A_Mesh.0" />
@@ -1111,6 +1123,12 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
+							<!--Dryad Head-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Dryad_Head_1.Dryad_Head_1_Glow_Mesh.8" />
+									<attribute id="MapValue" type="FixedString" value="08d2010c-b2c1-4651-9219-d9428087abae" />
+								</node>
+
 							<!--Elf Head/Ears-->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_A.ELF_F_NKD_Head_A_Mesh.0" />
@@ -1507,6 +1525,11 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
+							<!--Dryad Head-->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Dryad_Head_1.Dryad_Head_1_Glow_Mesh.8" />
+									<attribute id="MapValue" type="FixedString" value="f5672526-e9d2-43d9-9c56-0b5455545123" />
+								</node>
 
 							<!--Elf Head/Ears-->
 								<node id="Object">
