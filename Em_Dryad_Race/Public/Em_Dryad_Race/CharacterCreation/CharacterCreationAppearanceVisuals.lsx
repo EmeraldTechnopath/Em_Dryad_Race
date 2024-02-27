@@ -5,7 +5,6 @@
         <node id="root">
             <children>
             <!--Fake Genitals-->
-            
                 <node id="CharacterCreationAppearanceVisual"> M
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
@@ -70,6 +69,25 @@
                     </children>
                 </node>
 
+    <!--Heads-->
+            <!--Dryad Heads-->
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+					<!-- ^^ Standard Body: 0 || Strong Body: 1 ^^ -->
+                    <attribute id="BodyType" type="uint8" value="1"/>
+					<!-- ^^ Masculine: 0 || Feminine: 1 ^^ -->
+                    <attribute id="DefaultSkinColor" type="guid" value="39949ade-52c7-d562-df3f-52da62275e26"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6e5649a8g6edbg4afdgb7bbgea3e75fb0f29" version="1"/>
+					<!-- ^^ Paste the handle that you generated in your localization file for the appropriate head here. ^^ -->
+					<attribute id="IconIdOverride" type="FixedString" value="0_Head_UUID1"/>
+                    <attribute id="RaceUUID" type="guid" value="c503ab6b-6bdf-46f6-859b-288a93aa9e99"/>
+					<!-- ^^ Below is a guide to each of the UUIDS for the different races. Paste the appropriate one here. ^^ -->
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="af1e32cc-29ad-4f5a-bfb9-b859f6752177"/>
+					<!-- ^^ Generate a brand new unique UUID in the multitool and place it here. ^^ -->
+                    <attribute id="VisualResource" type="guid" value="56fefd37-2c21-450a-9f1f-166c0385e768"/>
+					<!-- ^^ The UUID you generate here will be used in the VisualBank section of the _merged file. ^^ -->
+				</node>
             <!-- Elves Heads -->
 				<node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
@@ -375,7 +393,7 @@
 
 
 
-				<!-- Half Elves Heads -->
+			<!-- Half Elves Heads -->
 
 				<node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
