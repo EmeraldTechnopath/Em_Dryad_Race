@@ -12,7 +12,7 @@
                   <attribute id="Name" type="LSString" value="Dryad_Race_1" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="ActionResource(Movement, 10.5, 0);ProficiencyBonus(Skill,Nature)"/> boosts
                   <attribute id="PassivesAdded" type="LSString" value="Em_Dryad_Race_Darkvision;Em_Dryad_Race_Resilience;FeyAncestry;Dryad_Debuff_Passive;Dryad_Leaves_VFX_Toggle" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="SelectSpells(4d519463-7eb5-4205-938d-7c2fad76c65a,1,0,,,,AlwaysPrepared);" /> this allows player to select 1 cantrip
+                  <attribute id="Selectors" type="LSString" value="SelectSpells(86b61fc0-1612-4fc9-9f26-1e014be18941,1,0,,,,AlwaysPrepared);" /> this allows player to select 1 cantrip
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="78cb9632-c52c-47d6-8588-4779228fc892" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="c5671549-0282-4b60-a68d-47b676e9e2b9" />  this one must be unique
@@ -22,7 +22,7 @@
                   <attribute id="Name" type="LSString" value="Dryad_Race_3" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
                   <attribute id="PassivesAdded" type="LSString" value="Em_Dryad_Race_Barkskin" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="SelectSpells(4d519463-7eb5-4205-938d-7c2fad76c65a,1,0,,,,AlwaysPrepared);" /> this allows player to select 1 cantrip
+                  <attribute id="Selectors" type="LSString" value="SelectSpells(86b61fc0-1612-4fc9-9f26-1e014be18941,1,0,,,,AlwaysPrepared);" /> this allows player to select 1 cantrip
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="78cb9632-c52c-47d6-8588-4779228fc892" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="1832cbeb-f13f-4888-bee9-c1f8f97a83c7" />  this one must be unique

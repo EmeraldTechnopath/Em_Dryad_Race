@@ -6,8 +6,8 @@
             <children>               
                 <node id="SpellList">Spell list - Cantrips
                     <attribute id="Comment" type="LSString" value="Custom Race Spelllist Racial Spells"/> 
-                    <attribute id="Spells" type="LSString" value="Shout_BladeWard;Target_Friends;Target_TrueStrike;Projectile_AcidSplash;Target_DancingLights;Target_Light;Target_MageHand;Target_MinorIllusion;Projectile_PoisonSpray;Target_Guidance;Target_Resistance;Target_ThornWhip;Target_ViciousMockery"/> the spells within the selector
-                    <attribute id="UUID" type="guid" value="4d519463-7eb5-4205-938d-7c2fad76c65a"/> the UUID, needs to be unique
+                    <attribute id="Spells" type="LSString" value="Shout_BladeWard;Target_Friends;Projectile_AcidSplash;Target_DancingLights;Target_Light;Target_MageHand;Target_MinorIllusion;Projectile_PoisonSpray;Target_Guidance;Target_Resistance;Target_ThornWhip;Target_ViciousMockery"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="86b61fc0-1612-4fc9-9f26-1e014be18941"/> the UUID, needs to be unique
                 </node>
                 <node id="SpellList">Spell list - Single cantrip - Entangle
                     <attribute id="Comment" type="LSString" value="Custom Race Spelllist Single Cantrip"/> 
