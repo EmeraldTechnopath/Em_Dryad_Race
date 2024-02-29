@@ -18,6 +18,8 @@
 	<content contentuid="h8b3dd1e8g2a49g43fdg92cfg1d5743277348" version="1">These dryads hail from icy caves and sparse tundra, embodying the spirit of winter.</content>
 
 	<!--Passives loca-->
+	<content contentuid="he91b2e77g2816g4a2bg81ebgc9a306a4e1d3" version="1">Darkvision</content>
+
 	<content contentuid="h3fe12182gc725g423bg9b39g59027fbad3bc" version="1">Dryad Vulnerablity</content>
 	<content contentuid="h0c647fdfg54fbg4ce6g89b8g12dab5e4c366" version="1">You are &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Fire damage.</content>
 
