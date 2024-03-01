@@ -6,15 +6,15 @@
             <children> <!-- You can fit 54 icons in one row of the .dds, but since I doubt anyone other than Toarie will ever include more than 54 hairs in a pack, I've only included the first row's worth of coordinates. -->
             <!-- I dug these coordinates out of the game files, but I've seen other modders use different coordinates, particularly if they crop their .dds to only the first row. I recommend keeping the .dds sized at 8192 x 4196
             and using these coordinates, otherwise the game (particularly if run through DirectX 11 instead of Vulkan) might not show your icons. -->
-                <node id="IconUV"> 1
+                <node id="IconUV"> 1 Medusa's Locks
                     <attribute id="MapKey" type="FixedString" value="0_Hair_477f54b8-bfdd-4601-8ede-f2f7a044317a"/> <!-- Matches the IconIdOverride value in CharacterCreationAppearanceVisuals -->
                     <attribute id="U1" type="float" value="6.1035156e-05"/>	Left boundary
                     <attribute id="U2" type="float" value="0.018249512"/>	Right boundary
                     <attribute id="V1" type="float" value="0.00012207031"/>	Top boundary
                     <attribute id="V2" type="float" value="0.036499023"/>	Bottom boundary
                 </node>
-                <node id="IconUV"> 2
-                    <attribute id="MapKey" type="FixedString" value="0_Hair_"/>
+                <node id="IconUV"> 2 Braids of Stheno
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_01b0777b-c51b-4e4e-b8e4-e377b8131282"/>
                     <attribute id="U1" type="float" value="0.018371582"/>	
                     <attribute id="U2" type="float" value="0.036560059"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
