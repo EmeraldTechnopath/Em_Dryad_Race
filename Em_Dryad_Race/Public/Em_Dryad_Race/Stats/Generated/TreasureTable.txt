@@ -2,6 +2,3 @@ new treasuretable "TUT_Chest_Potions"
 CanMerge 1
 new subtable "-1"
 object category "I_LEAFY_DRYAD_UNDERWEAR",1,0,0,0,0,0,0,0
-CanMerge 1
-new subtable "-1"
-object category "I_ACORN_OF_FAR_TRAVEL",1,0,0,0,0,0,0,0
