@@ -4,7 +4,7 @@
     <region id="CharacterCreationAppearanceVisuals">
         <node id="root">
             <children>
-            <!--Fake Genitals-->
+    <!--Fake Genitals-->
                 <node id="CharacterCreationAppearanceVisual"> M
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
