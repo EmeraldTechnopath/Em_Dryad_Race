@@ -3,12 +3,12 @@
 	<version major="4" minor="0" revision="4" build="58" lslib_meta="v1,bswap_guids" />
 	<region id="Tags">
 		<node id="Tags">
-			<attribute id="Description" type="LSString" value="|Spring Dryad|" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="h78d852bag7ebbg420dga21dgb2a1f81067ce" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="h0166b646g2143g4189g9f91gbcc04b62b5cb" version="1" />
+			<attribute id="Description" type="LSString" value="|Summer Dryad|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h1c357de6g1f3cg4349g8865g46ff016e8ac3" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="he7dbb61ag91beg44f4g90acgfceb04fb08a9" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="SPRINGDRYAD" />
-			<attribute id="UUID" type="guid" value="64371de9-3ea4-4482-ba5e-718f2fb8adfe" />
+			<attribute id="Name" type="FixedString" value="SUMMERDRYAD" />
+			<attribute id="UUID" type="guid" value="28d23594-5acd-4805-b7e7-ba2af2551fc1" />
 			<children>
 				<node id="Categories">
 					<children>
