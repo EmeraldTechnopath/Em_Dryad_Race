@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="58" lslib_meta="v1,bswap_guids" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|Autumn Dryad|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h1f8cbaf6g03a8g4552g9366g7523ee51e49a" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hc8ab4435g9b9bg4f2cg9c0cg43e694441e1a" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="AUTUMNDRYAD" />
+			<attribute id="UUID" type="guid" value="36374bbe-b7b7-41ca-90af-0a0773705654" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Race" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="PlayerRace" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
