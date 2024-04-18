@@ -68,6 +68,4 @@
 	<!--Hairs loca-->
 	<content contentuid="h8030afcdgad1fg418bgba16g3cf22fdd8282" version="1">Medusa's Locks</content>
 	<content contentuid="h70c8339egbde1g476fg973fg1ad32eaf0987" version="1">Braids of Stheno</content>
-	<!-- ^ The name of the hair as it will display in CC-->
-	<!-- ^^ The contentuid must match the handle in CharacterCreationAppearanceVisuals -->
 </contentList>
