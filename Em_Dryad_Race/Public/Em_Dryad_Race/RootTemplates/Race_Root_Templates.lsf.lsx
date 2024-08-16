@@ -10,7 +10,7 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="4c3d8aa0-2e31-4dce-a792-84fc07fa63d8" /> base elf reference
 					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="0a13feb0-273c-4569-b6ab-c1695fd7c434" /> which models to load
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="e5ff7ed9-775c-4359-a795-36d09164c515" /> which models to load
 					<attribute id="Race" type="guid" value="c503ab6b-6bdf-46f6-859b-288a93aa9e99" /> define race as Custom Race
 					<children>
 						<node id="Tags">
@@ -39,7 +39,7 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="858a8c1e-b8fa-429f-9a31-41033042ede3" /> base elf reference
 					<attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="5908a90f-15e1-48ae-8638-2bd89a4915a7" /> which models to load
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="be685764-a06d-427c-a603-2d204427af44" /> which models to load
 					<attribute id="Race" type="guid" value="c503ab6b-6bdf-46f6-859b-288a93aa9e99" /> define race as Custom Race
 					<children>
 						<node id="Tags">
@@ -63,7 +63,7 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="d743b68b-6f19-42d6-b684-5a16646aa51d" /> must be unique
+					<attribute id="MapKey" type="FixedString" value="466375b8-d53a-4ee2-a50d-e513ffa8a8fe" /> must be unique
 					<attribute id="Name" type="LSString" value="Dryad_Female_Sub_Race_Player" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -109,7 +109,7 @@
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="a3418750-9f4c-4cfd-be84-426f72a722cc" /> which models to load
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="e1254a4e-3d52-76c2-7b19-52e93941b6dd" />
-					<attribute id="Race" type="guid" value="5f2f72a1-912e-4b22-8085-60ac11e43606" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="7fa7b115-21f2-4238-baee-752acf775aec" /> define race as Custom Race
 					<children>
 						<node id="SpeakerGroupList">
 							<children>
@@ -145,7 +145,7 @@
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="600ce650-8be6-429d-a7a4-e973941208d2" /> which models to load
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="e1254a4e-3d52-76c2-7b19-52e93941b6dd" />
-					<attribute id="Race" type="guid" value="5f2f72a1-912e-4b22-8085-60ac11e43606" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="c8daf664-1e68-4d6e-83e0-8352a178fd01" /> define race as Custom Race
 					<children>
 						<node id="SpeakerGroupList">
 							<children>
@@ -182,7 +182,7 @@
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="330eada6-81c2-4d95-abbe-c70227f9761b" /> which models to load
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="e1254a4e-3d52-76c2-7b19-52e93941b6dd" />
-					<attribute id="Race" type="guid" value="5f2f72a1-912e-4b22-8085-60ac11e43606" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="8690024f-74c3-476d-bb22-3f8ea5aff812" /> define race as Custom Race
 					<children>
 						<node id="SpeakerGroupList">
 							<children>
@@ -212,11 +212,11 @@
 
 
 				<node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="34107858-d9a5-4835-adde-7440a05df46b" /> must be unique
+					<attribute id="MapKey" type="FixedString" value="2fd15303-56a1-4e7e-8f55-97e0898da413" /> must be unique
 					<attribute id="Name" type="LSString" value="Dryad_Female_Sub_Race_Player_Strong" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="d743b68b-6f19-42d6-b684-5a16646aa51d" /> inherits from normal Dryad body
+					<attribute id="ParentTemplateId" type="FixedString" value="466375b8-d53a-4ee2-a50d-e513ffa8a8fe" /> inherits from normal Dryad body
 					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
 					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="2558d490-5cf9-4d6e-ad36-91f3b0f67af7" /> which models to load
@@ -242,12 +242,12 @@
 					<attribute id="Name" type="LSString" value="Dryad_Female_Sub_Race_Summer_Player_Strong" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="d743b68b-6f19-42d6-b684-5a16646aa51d" /> inherits from normal Dryad body
+					<attribute id="ParentTemplateId" type="FixedString" value="466375b8-d53a-4ee2-a50d-e513ffa8a8fe" /> inherits from normal Dryad body
 					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
 					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="d320633d-d75a-4f42-8b0f-03d347c01bec" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
-					<attribute id="Race" type="guid" value="5f2f72a1-912e-4b22-8085-60ac11e43606" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="7fa7b115-21f2-4238-baee-752acf775aec" /> define race as Custom Race
 					<children>
 						<node id="Tags">
 							<children>
@@ -268,12 +268,12 @@
 					<attribute id="Name" type="LSString" value="Dryad_Female_Sub_Race_Autumn_Player_Strong" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="d743b68b-6f19-42d6-b684-5a16646aa51d" /> inherits from normal Dryad body
+					<attribute id="ParentTemplateId" type="FixedString" value="466375b8-d53a-4ee2-a50d-e513ffa8a8fe" /> inherits from normal Dryad body
 					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
 					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="89669db4-ec84-4ffe-92c4-f4fcf488a572" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
-					<attribute id="Race" type="guid" value="5f2f72a1-912e-4b22-8085-60ac11e43606" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="c8daf664-1e68-4d6e-83e0-8352a178fd01" /> define race as Custom Race
 					<children>
 						<node id="Tags">
 							<children>
@@ -294,12 +294,12 @@
 					<attribute id="Name" type="LSString" value="Dryad_Female_Sub_Race_Winter_Player_Strong" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="d743b68b-6f19-42d6-b684-5a16646aa51d" /> inherits from normal Dryad body
+					<attribute id="ParentTemplateId" type="FixedString" value="466375b8-d53a-4ee2-a50d-e513ffa8a8fe" /> inherits from normal Dryad body
 					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
 					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="1cf3e24b-896a-40ad-a5ff-0b86f34defb5" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
-					<attribute id="Race" type="guid" value="5f2f72a1-912e-4b22-8085-60ac11e43606" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="8690024f-74c3-476d-bb22-3f8ea5aff812" /> define race as Custom Race
 					<children>
 						<node id="Tags">
 							<children>
@@ -316,7 +316,7 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="63742aba-42f5-4ca3-8c0a-18ea6a3d8990" /> must be unique
+					<attribute id="MapKey" type="FixedString" value="b0623ccc-24e6-4781-8db2-85c613a11ba0" /> must be unique
 					<attribute id="Name" type="LSString" value="Dryad_Male_Sub_Race_Player" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -362,7 +362,7 @@
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="55736b30-e977-4dd1-b1dc-dfa5c1db9e6b" /> which models to load
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="f7af9f10-cd33-3b88-e96a-d52952e81f5b" />
-					<attribute id="Race" type="guid" value="5f2f72a1-912e-4b22-8085-60ac11e43606" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="7fa7b115-21f2-4238-baee-752acf775aec" /> define race as Custom Race
 					<children>
 						<node id="SpeakerGroupList">
 							<children>
@@ -397,7 +397,7 @@
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="83b128d0-9f44-4aa3-b375-3411821c2893" /> which models to load
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="f7af9f10-cd33-3b88-e96a-d52952e81f5b" />
-					<attribute id="Race" type="guid" value="5f2f72a1-912e-4b22-8085-60ac11e43606" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="c8daf664-1e68-4d6e-83e0-8352a178fd01" /> define race as Custom Race
 					<children>
 						<node id="SpeakerGroupList">
 							<children>
@@ -432,7 +432,7 @@
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="a10de3b0-ba83-4406-bc36-578910a54c6d" /> which models to load, goes to _merged.lsf.lsx
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="f7af9f10-cd33-3b88-e96a-d52952e81f5b" />
-					<attribute id="Race" type="guid" value="5f2f72a1-912e-4b22-8085-60ac11e43606" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="8690024f-74c3-476d-bb22-3f8ea5aff812" /> define race as Custom Race
 					<children>
 						<node id="SpeakerGroupList">
 							<children>
@@ -456,11 +456,11 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="ee622cf0-c18d-4264-939c-9f0e6327be38" /> must be unique
+					<attribute id="MapKey" type="FixedString" value="41b60508-b688-40f8-a5d8-9c8e2f1d2e3e" /> must be unique
 					<attribute id="Name" type="LSString" value="Dryad_Male_Sub_Race_Player_Strong" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="63742aba-42f5-4ca3-8c0a-18ea6a3d8990" /> inherits from normal body Custom Race
+					<attribute id="ParentTemplateId" type="FixedString" value="b0623ccc-24e6-4781-8db2-85c613a11ba0" /> inherits from normal body Custom Race
 					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
 					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="8a42d380-3b21-4621-b325-b3ef93cd2ef1" /> which models to load
@@ -486,12 +486,12 @@
 					<attribute id="Name" type="LSString" value="Dryad_Male_Sub_Race_Summer_Player_Strong" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="63742aba-42f5-4ca3-8c0a-18ea6a3d8990" /> inherits from normal body Custom Race
+					<attribute id="ParentTemplateId" type="FixedString" value="b0623ccc-24e6-4781-8db2-85c613a11ba0" /> inherits from normal body Custom Race
 					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
 					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="d5dc500f-f437-4a02-8670-bcf9d4dcebe7" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
-					<attribute id="Race" type="guid" value="5f2f72a1-912e-4b22-8085-60ac11e43606" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="7fa7b115-21f2-4238-baee-752acf775aec" /> define race as Custom Race
 					<children>
 						<node id="Tags">
 							<children>
@@ -512,12 +512,12 @@
 					<attribute id="Name" type="LSString" value="Dryad_Male_Sub_Race_Autumn_Player_Strong" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="63742aba-42f5-4ca3-8c0a-18ea6a3d8990" /> inherits from normal body Custom Race
+					<attribute id="ParentTemplateId" type="FixedString" value="b0623ccc-24e6-4781-8db2-85c613a11ba0" /> inherits from normal body Custom Race
 					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
 					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="14fb7d6c-298e-43af-af6d-7cb88d471896" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
-					<attribute id="Race" type="guid" value="5f2f72a1-912e-4b22-8085-60ac11e43606" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="c8daf664-1e68-4d6e-83e0-8352a178fd01" /> define race as Custom Race
 					<children>
 						<node id="Tags">
 							<children>
@@ -538,12 +538,12 @@
 					<attribute id="Name" type="LSString" value="Dryad_Male_Sub_Race_Winter_Player_Strong" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="63742aba-42f5-4ca3-8c0a-18ea6a3d8990" /> inherits from normal body Custom Race
+					<attribute id="ParentTemplateId" type="FixedString" value="b0623ccc-24e6-4781-8db2-85c613a11ba0" /> inherits from normal body Custom Race
 					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
 					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="ce01d37d-1ff1-43e4-9530-725cf57b475f" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
-					<attribute id="Race" type="guid" value="5f2f72a1-912e-4b22-8085-60ac11e43606" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="8690024f-74c3-476d-bb22-3f8ea5aff812" /> define race as Custom Race
 					<children>
 						<node id="Tags">
 							<children>
