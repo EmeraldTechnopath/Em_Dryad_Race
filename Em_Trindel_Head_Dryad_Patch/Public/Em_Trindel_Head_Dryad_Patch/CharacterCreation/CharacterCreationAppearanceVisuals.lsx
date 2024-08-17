@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="CharacterCreationAppearanceVisuals">
+        <node id="root">
+            <children> 
+                <!-- From here to /node is the entry for one of your heads. You'll want to copy an entry for each head you have. -->
+				<!-- If you have a head that you want to use, for instance, for Elf, Drow AND Half Elf, each of them need a separate entry. -->
+				<node id="CharacterCreationAppearanceVisual"> DRYAD FS
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+					<!-- ^^ Standard Body: 0 || Strong Body: 1 ^^ -->
+                    <attribute id="BodyType" type="uint8" value="1"/>
+					<!-- ^^ Masculine: 0 || Feminine: 1 ^^ -->
+                    <attribute id="DefaultSkinColor" type="guid" value="39949ade-52c7-d562-df3f-52da62275e26"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4d2f06b6g4c2cg4a6eg90fdgc12b9fead00b" version="1"/>
+					<!-- ^^ Paste the handle that you generated in your localization file for the appropriate head here. ^^ -->
+                    <attribute id="RaceUUID" type="guid" value="c503ab6b-6bdf-46f6-859b-288a93aa9e99"/>
+					<!-- ^^ Below is a guide to each of the UUIDS for the different races. Paste the appropriate one here. ^^ -->
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="3f835d6b-b07c-45bb-9886-1c6391ae1937"/>
+					<!-- ^^ Generate a brand new unique UUID in the multitool and place it here. ^^ -->
+                    <attribute id="VisualResource" type="guid" value="e30676dc-ccf9-455c-b074-2516301eda22"/>
+					<!-- ^^ The UUID you generate here will be used in the VisualBank section of the _merged file. ^^ -->
+				</node>
+				<node id="CharacterCreationAppearanceVisual"> DRYAD F
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+					<!-- ^^ Standard Body: 0 || Strong Body: 1 ^^ -->
+                    <attribute id="BodyType" type="uint8" value="1"/>
+					<!-- ^^ Masculine: 0 || Feminine: 1 ^^ -->
+                    <attribute id="DefaultSkinColor" type="guid" value="39949ade-52c7-d562-df3f-52da62275e26"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4d2f06b6g4c2cg4a6eg90fdgc12b9fead00b" version="1"/>
+					<!-- ^^ Paste the handle that you generated in your localization file for the appropriate head here. ^^ -->
+                    <attribute id="RaceUUID" type="guid" value="c503ab6b-6bdf-46f6-859b-288a93aa9e99"/>
+					<!-- ^^ Below is a guide to each of the UUIDS for the different races. Paste the appropriate one here. ^^ -->
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="a052a52d-f97e-4bbd-a4b3-ab472ad39cb7"/>
+					<!-- ^^ Generate a brand new unique UUID in the multitool and place it here. ^^ -->
+                    <attribute id="VisualResource" type="guid" value="b5582c1c-dcad-4804-98a3-7658bd51917f"/>
+					<!-- ^^ The UUID you generate here will be used in the VisualBank section of the _merged file. ^^ -->
+				</node>
+            </children>
+        </node>
+    </region>
+</save>
