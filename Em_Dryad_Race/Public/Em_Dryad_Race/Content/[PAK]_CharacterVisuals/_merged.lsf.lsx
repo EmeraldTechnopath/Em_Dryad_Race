@@ -449,19 +449,19 @@
 							<!-- Patched Heads -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_F.Em_Trindel_Head_F_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="46672a5e-8aac-4249-bc6a-98ed6a5037a9" />
+									<attribute id="MapValue" type="FixedString" value="35125d2a-d7cd-4b01-9578-2cee3923a250" />
 								</node>
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_F.Em_Trindel_Head_F_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="46672a5e-8aac-4249-bc6a-98ed6a5037a9" />
+									<attribute id="MapValue" type="FixedString" value="35125d2a-d7cd-4b01-9578-2cee3923a250" />
 								</node>
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_FS.Em_Trindel_Head_FS_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="46672a5e-8aac-4249-bc6a-98ed6a5037a9" />
+									<attribute id="MapValue" type="FixedString" value="35125d2a-d7cd-4b01-9578-2cee3923a250" />
 								</node>
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_FS.Em_Trindel_Head_FS_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="46672a5e-8aac-4249-bc6a-98ed6a5037a9" />
+									<attribute id="MapValue" type="FixedString" value="35125d2a-d7cd-4b01-9578-2cee3923a250" />
 								</node>
 
 							<!--Eyes-->
@@ -944,19 +944,19 @@
 							<!-- Patched Heads -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_F.Em_Trindel_Head_F_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="aedcb4b8-3d8e-4d8d-975e-c6e76f3e1de9" />
+									<attribute id="MapValue" type="FixedString" value="9a589a8f-5cd6-4900-bd21-525d38effcef" />
 								</node>
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_F.Em_Trindel_Head_F_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="aedcb4b8-3d8e-4d8d-975e-c6e76f3e1de9" />
+									<attribute id="MapValue" type="FixedString" value="9a589a8f-5cd6-4900-bd21-525d38effcef" />
 								</node>
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_FS.Em_Trindel_Head_FS_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="aedcb4b8-3d8e-4d8d-975e-c6e76f3e1de9" />
+									<attribute id="MapValue" type="FixedString" value="9a589a8f-5cd6-4900-bd21-525d38effcef" />
 								</node>
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_FS.Em_Trindel_Head_FS_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="aedcb4b8-3d8e-4d8d-975e-c6e76f3e1de9" />
+									<attribute id="MapValue" type="FixedString" value="9a589a8f-5cd6-4900-bd21-525d38effcef" />
 								</node>
 
 							<!--Eyes-->
@@ -1351,19 +1351,19 @@
 							<!-- Patched Heads -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_F.Em_Trindel_Head_F_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="5e4e4299-1b23-4782-acf9-764d0c4a40d4" />
+									<attribute id="MapValue" type="FixedString" value="3e562bd3-691e-4831-85e5-3652c208fbf7" />
 								</node>
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_F.Em_Trindel_Head_F_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="5e4e4299-1b23-4782-acf9-764d0c4a40d4" />
+									<attribute id="MapValue" type="FixedString" value="3e562bd3-691e-4831-85e5-3652c208fbf7" />
 								</node>
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_FS.Em_Trindel_Head_FS_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="5e4e4299-1b23-4782-acf9-764d0c4a40d4" />
+									<attribute id="MapValue" type="FixedString" value="3e562bd3-691e-4831-85e5-3652c208fbf7" />
 								</node>
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_FS.Em_Trindel_Head_FS_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="5e4e4299-1b23-4782-acf9-764d0c4a40d4" />
+									<attribute id="MapValue" type="FixedString" value="3e562bd3-691e-4831-85e5-3652c208fbf7" />
 								</node>
 
 							<!--Eyes-->
@@ -1852,19 +1852,19 @@
 
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_F.Em_Trindel_Head_F_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="b878e7dc-0d91-4bcb-b6ae-c62abb295cbb" />
+									<attribute id="MapValue" type="FixedString" value="3d5a914b-43ab-4235-bcbd-da4fca378a01" />
 								</node>
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_F.Em_Trindel_Head_F_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="b878e7dc-0d91-4bcb-b6ae-c62abb295cbb" />
+									<attribute id="MapValue" type="FixedString" value="3d5a914b-43ab-4235-bcbd-da4fca378a01" />
 								</node>
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_FS.Em_Trindel_Head_FS_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="b878e7dc-0d91-4bcb-b6ae-c62abb295cbb" />
+									<attribute id="MapValue" type="FixedString" value="3d5a914b-43ab-4235-bcbd-da4fca378a01" />
 								</node>
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_FS.Em_Trindel_Head_FS_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="b878e7dc-0d91-4bcb-b6ae-c62abb295cbb" />
+									<attribute id="MapValue" type="FixedString" value="3d5a914b-43ab-4235-bcbd-da4fca378a01" />
 								</node>
 
 							<!--Eyes-->
@@ -3864,6 +3864,24 @@
 									<attribute id="MapValue" type="FixedString" value="044762a2-b8a1-4b41-b16a-d76c4da31b00" />
 								</node>
 
+							<!-- Patched Heads -->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_F.Em_Trindel_Head_F_Mesh.0" />
+									<attribute id="MapValue" type="FixedString" value="35125d2a-d7cd-4b01-9578-2cee3923a250" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_F.Em_Trindel_Head_F_Ears_Mesh.3" />
+									<attribute id="MapValue" type="FixedString" value="35125d2a-d7cd-4b01-9578-2cee3923a250" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_FS.Em_Trindel_Head_FS_Mesh.0" />
+									<attribute id="MapValue" type="FixedString" value="35125d2a-d7cd-4b01-9578-2cee3923a250" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_FS.Em_Trindel_Head_FS_Ears_Mesh.3" />
+									<attribute id="MapValue" type="FixedString" value="35125d2a-d7cd-4b01-9578-2cee3923a250" />
+								</node>
+
 							<!--Eyes-->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="ELF_FS_NKD_Head_A_Remap.ELF_FS_NKD_Head_A_Remap_Eyes_Mesh.2" />
@@ -4288,6 +4306,24 @@
 									<attribute id="MapValue" type="FixedString" value="e32017ed-ac9e-4fb3-acbc-4a5af6af1e86" />
 								</node>
 
+							<!-- Patched Heads -->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_F.Em_Trindel_Head_F_Mesh.0" />
+									<attribute id="MapValue" type="FixedString" value="9a589a8f-5cd6-4900-bd21-525d38effcef" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_F.Em_Trindel_Head_F_Ears_Mesh.3" />
+									<attribute id="MapValue" type="FixedString" value="9a589a8f-5cd6-4900-bd21-525d38effcef" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_FS.Em_Trindel_Head_FS_Mesh.0" />
+									<attribute id="MapValue" type="FixedString" value="9a589a8f-5cd6-4900-bd21-525d38effcef" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_FS.Em_Trindel_Head_FS_Ears_Mesh.3" />
+									<attribute id="MapValue" type="FixedString" value="9a589a8f-5cd6-4900-bd21-525d38effcef" />
+								</node>
+
 							<!--Eyes-->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="ELF_FS_NKD_Head_A_Remap.ELF_FS_NKD_Head_A_Remap_Eyes_Mesh.2" />
@@ -4706,6 +4742,24 @@
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="HEL_FS_NKD_Head_G_Remap.HEL_FS_NKD_Head_G_Remap_Ears_Mesh.3" /> <!--shared with H -->
 									<attribute id="MapValue" type="FixedString" value="c5dc14b9-0ea0-436c-8a88-c44fc6caefd3" />
+								</node>
+
+							<!-- Patched Heads -->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_F.Em_Trindel_Head_F_Mesh.0" />
+									<attribute id="MapValue" type="FixedString" value="3e562bd3-691e-4831-85e5-3652c208fbf7" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_F.Em_Trindel_Head_F_Ears_Mesh.3" />
+									<attribute id="MapValue" type="FixedString" value="3e562bd3-691e-4831-85e5-3652c208fbf7" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_FS.Em_Trindel_Head_FS_Mesh.0" />
+									<attribute id="MapValue" type="FixedString" value="3e562bd3-691e-4831-85e5-3652c208fbf7" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_FS.Em_Trindel_Head_FS_Ears_Mesh.3" />
+									<attribute id="MapValue" type="FixedString" value="3e562bd3-691e-4831-85e5-3652c208fbf7" />
 								</node>
 
 							<!--Eyes-->
@@ -5139,6 +5193,24 @@
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="HEL_FS_NKD_Head_G_Remap.HEL_FS_NKD_Head_G_Remap_Ears_Mesh.3" /> <!--shared with H -->
 									<attribute id="MapValue" type="FixedString" value="fbf1cc2d-10d3-4898-aecc-9e39db826fa7" />
+								</node>
+
+							<!-- Patched Heads -->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_F.Em_Trindel_Head_F_Mesh.0" />
+									<attribute id="MapValue" type="FixedString" value="3e562bd3-691e-4831-85e5-3652c208fbf7" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_F.Em_Trindel_Head_F_Ears_Mesh.3" />
+									<attribute id="MapValue" type="FixedString" value="3e562bd3-691e-4831-85e5-3652c208fbf7" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_FS.Em_Trindel_Head_FS_Mesh.0" />
+									<attribute id="MapValue" type="FixedString" value="3e562bd3-691e-4831-85e5-3652c208fbf7" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="Em_Trindel_Head_FS.Em_Trindel_Head_FS_Ears_Mesh.3" />
+									<attribute id="MapValue" type="FixedString" value="3e562bd3-691e-4831-85e5-3652c208fbf7" />
 								</node>
 
 							<!--Eyes-->
