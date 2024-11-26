@@ -11,7 +11,7 @@
 					<attribute id="ID" type="FixedString" value="48c2e954-facf-4ca3-84bd-30edb752105f" />
 					<attribute id="MaterialType" type="uint8" value="22" />
 					<attribute id="Name" type="LSString" value="Em_DRYAD_ELF_F_Head_A_Spring" />
-					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Materials/Dryad_Head_V2/Trips_Skin_Head_v3_GM_HB.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Materials/Dryad_Head_V2/Trips_Skin_Head_v3_GM_HB_Green.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
 					<children>
 						<node id="ScalarParameters">
@@ -382,7 +382,7 @@
 					<attribute id="ID" type="FixedString" value="60332e05-966f-4719-abfd-176ea391c58a" />
 					<attribute id="MaterialType" type="uint8" value="22" />
 					<attribute id="Name" type="LSString" value="Em_DRYAD_ELF_F_Head_B_Spring" />
-					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Materials/Dryad_Head_V2/Trips_Skin_Head_v3_GM_HB.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Materials/Dryad_Head_V2/Trips_Skin_Head_v3_GM_HB_Green.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
 					<children>
 						<node id="ScalarParameters">
@@ -753,7 +753,7 @@
 					<attribute id="ID" type="FixedString" value="35125d2a-d7cd-4b01-9578-2cee3923a250" />
 					<attribute id="MaterialType" type="uint8" value="22" />
 					<attribute id="Name" type="LSString" value="Em_DRYAD_ELF_F_Head_E_Spring" />
-					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Materials/Dryad_Head_V2/Trips_Skin_Head_v3_GM_HB.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Materials/Dryad_Head_V2/Trips_Skin_Head_v3_GM_HB_Green.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
 					<children>
 						<node id="ScalarParameters">
@@ -1124,7 +1124,7 @@
 					<attribute id="ID" type="FixedString" value="044762a2-b8a1-4b41-b16a-d76c4da31b00" />
 					<attribute id="MaterialType" type="uint8" value="22" />
 					<attribute id="Name" type="LSString" value="Em_DRYAD_ELF_F_Head_H_Summer" />
-					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Materials/Dryad_Head_V2/Trips_Skin_Head_v3_GM_HB.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Materials/Dryad_Head_V2/Trips_Skin_Head_v3_GM_HB_Green.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
 					<children>
 						<node id="ScalarParameters">
@@ -1495,7 +1495,7 @@
 					<attribute id="ID" type="FixedString" value="46672a5e-8aac-4249-bc6a-98ed6a5037a9" />
 					<attribute id="MaterialType" type="uint8" value="22" />
 					<attribute id="Name" type="LSString" value="Em_DRYAD_ELF_F_Head_H_Summer" />
-					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Materials/Dryad_Head_V2/Trips_Skin_Head_v3_GM_HB.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Materials/Dryad_Head_V2/Trips_Skin_Head_v3_GM_HB_Green.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
 					<children>
 						<node id="ScalarParameters">
