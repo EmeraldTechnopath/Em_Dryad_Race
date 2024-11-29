@@ -32,6 +32,34 @@
             <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> do not touch
             <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> do not touch?
           </node>
+          <!--F Guardian Autumn-->
+          <node id="CompanionPreset">
+            <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
+            <attribute id="BodyType" type="uint8" value="1"/> 1 means wimmin, 0 means man
+            <attribute id="CloseUpA" type="LSString" value="ELF_F_Camera_CompanionCloseup_A"/> do not touch these three, cameras for in CC
+            <attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_CompanionCloseup_B"/> do not touch these three, cameras for in CC
+            <attribute id="Overview" type="LSString" value="ELF_F_Camera_CompanionOverview_A"/>  do not touch these three, cameras for in CC
+            <attribute id="RaceUUID" type="guid" value="c503ab6b-6bdf-46f6-859b-288a93aa9e99"/> base Custom Main race
+            <attribute id="RootTemplate" type="guid" value="be21e988-01e1-485e-9000-0ef52e31c1db"/> roottemplates
+            <attribute id="SubRaceUUID" type="guid" value="c8daf664-1e68-4d6e-83e0-8352a178fd01"/> your subrace uuid
+            <attribute id="UUID" type="guid" value="91725fa6-4c0c-4de3-bf8e-25c320277eff"/> must be unique
+            <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> do not touch
+            <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> do not touch?
+          </node>
+          <!--F Guardian Winter-->
+          <node id="CompanionPreset">
+            <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
+            <attribute id="BodyType" type="uint8" value="1"/> 1 means wimmin, 0 means man
+            <attribute id="CloseUpA" type="LSString" value="ELF_F_Camera_CompanionCloseup_A"/> do not touch these three, cameras for in CC
+            <attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_CompanionCloseup_B"/> do not touch these three, cameras for in CC
+            <attribute id="Overview" type="LSString" value="ELF_F_Camera_CompanionOverview_A"/>  do not touch these three, cameras for in CC
+            <attribute id="RaceUUID" type="guid" value="c503ab6b-6bdf-46f6-859b-288a93aa9e99"/> base Custom Main race
+            <attribute id="RootTemplate" type="guid" value="93f5f979-5eba-4dbe-9de9-adacb1a51b24"/> roottemplates
+            <attribute id="SubRaceUUID" type="guid" value="8690024f-74c3-476d-bb22-3f8ea5aff812"/> your subrace uuid
+            <attribute id="UUID" type="guid" value="dc9634cf-2754-4e95-8ef4-fbc95c61b3bf"/> must be unique
+            <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> do not touch
+            <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> do not touch?
+          </node>
           <!--M Guardian Spring-->
           <node id="CompanionPreset">
             <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
@@ -57,6 +85,34 @@
             <attribute id="RootTemplate" type="guid" value="08798236-4e27-4bc7-8f65-084216de2a28"/> roottemplates
             <attribute id="SubRaceUUID" type="guid" value="7fa7b115-21f2-4238-baee-752acf775aec"/> your subrace uuid
             <attribute id="UUID" type="guid" value="04a17c6e-9acb-4c2a-81b8-699a9f597c6c"/> must be unique
+            <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> do not touch
+            <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> do not touch?
+          </node>
+          <!--M Guardian Autumn -->
+          <node id="CompanionPreset">
+            <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
+            <attribute id="BodyType" type="uint8" value="0"/> 1 means wimmin, 0 means man
+            <attribute id="CloseUpA" type="LSString" value="ELF_M_Camera_CompanionCloseup_A"/> do not touch these three, cameras for in CC
+            <attribute id="CloseUpB" type="LSString" value="ELF_M_Camera_CompanionCloseup_B"/> do not touch these three, cameras for in CC
+            <attribute id="Overview" type="LSString" value="ELF_M_Camera_CompanionOverview_A"/>  do not touch these three, cameras for in CC
+            <attribute id="RaceUUID" type="guid" value="c503ab6b-6bdf-46f6-859b-288a93aa9e99"/> base Custom Main race
+            <attribute id="RootTemplate" type="guid" value="25b8830d-93a6-4a0f-9ab1-2a236df59382"/> roottemplates
+            <attribute id="SubRaceUUID" type="guid" value="c8daf664-1e68-4d6e-83e0-8352a178fd01"/> your subrace uuid
+            <attribute id="UUID" type="guid" value="c32f032e-bd8d-4b9b-8767-094ca25cf3d1"/> must be unique
+            <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> do not touch
+            <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> do not touch?
+          </node>
+          <!--M Guardian Winter -->
+          <node id="CompanionPreset">
+            <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
+            <attribute id="BodyType" type="uint8" value="0"/> 1 means wimmin, 0 means man
+            <attribute id="CloseUpA" type="LSString" value="ELF_M_Camera_CompanionCloseup_A"/> do not touch these three, cameras for in CC
+            <attribute id="CloseUpB" type="LSString" value="ELF_M_Camera_CompanionCloseup_B"/> do not touch these three, cameras for in CC
+            <attribute id="Overview" type="LSString" value="ELF_M_Camera_CompanionOverview_A"/>  do not touch these three, cameras for in CC
+            <attribute id="RaceUUID" type="guid" value="c503ab6b-6bdf-46f6-859b-288a93aa9e99"/> base Custom Main race
+            <attribute id="RootTemplate" type="guid" value="cc4374da-c119-4592-a3a1-ebae4f8399e3"/> roottemplates
+            <attribute id="SubRaceUUID" type="guid" value="8690024f-74c3-476d-bb22-3f8ea5aff812"/> your subrace uuid
+            <attribute id="UUID" type="guid" value="ef1eab25-59db-427a-902e-52a756e3f232"/> must be unique
             <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/> do not touch
             <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/> do not touch?
           </node>
