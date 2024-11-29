@@ -4,32 +4,73 @@
 	<region id="TextureBank">
 		<node id="TextureBank">
 			<children>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="5c462fcc-40a6-40c3-9d38-651c9e86eace" />
-					<attribute id="Name" type="LSString" value="Em_DRYAD_F_Head_GM" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/Em_DRYAD_F_Head_GM.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Em_DRYAD_F_Head_GM" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144255925564211200" />
-				</node>
-				<node id="Resource">
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="2048" />
-					<attribute id="ID" type="FixedString" value="ae84c7c6-2da8-4664-a52a-46f87e0cd855" />
-					<attribute id="Name" type="LSString" value="DRYAD_F_Body_Glowtest_BMA" />
-					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/DRYAD_F_Body_Glowtest_BMA.DDS" />
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="DRYAD_F_Body_Glowtest_BMA" />
-					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="2048" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144255925564211200" />
-				</node>
+				<!-- Glow Maps -->
+					<node id="Resource">
+						<attribute id="Depth" type="int32" value="1" />
+						<attribute id="Height" type="int32" value="2048" />
+						<attribute id="ID" type="FixedString" value="5c462fcc-40a6-40c3-9d38-651c9e86eace" />
+						<attribute id="Name" type="LSString" value="Em_DRYAD_F_Head_GM" />
+						<attribute id="SRGB" type="bool" value="False" />
+						<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/Em_DRYAD_F_Head_GM.DDS" />
+						<attribute id="Streaming" type="bool" value="True" />
+						<attribute id="Template" type="FixedString" value="Em_DRYAD_F_Head_GM" />
+						<attribute id="Type" type="int32" value="1" />
+						<attribute id="Width" type="int32" value="2048" />
+						<attribute id="_OriginalFileVersion_" type="int64" value="144255925564211200" />
+					</node>
+					<node id="Resource">
+						<attribute id="Depth" type="int32" value="1" />
+						<attribute id="Height" type="int32" value="2048" />
+						<attribute id="ID" type="FixedString" value="ae84c7c6-2da8-4664-a52a-46f87e0cd855" />
+						<attribute id="Name" type="LSString" value="DRYAD_F_Body_GM" />
+						<attribute id="SRGB" type="bool" value="False" />
+						<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/DRYAD_F_Body_GM.DDS" />
+						<attribute id="Streaming" type="bool" value="True" />
+						<attribute id="Template" type="FixedString" value="DRYAD_F_Body_GM" />
+						<attribute id="Type" type="int32" value="1" />
+						<attribute id="Width" type="int32" value="2048" />
+						<attribute id="_OriginalFileVersion_" type="int64" value="144255925564211200" />
+					</node>
+				<!-- Dryad F Body Maps -->
+					<node id="Resource">
+						<attribute id="Depth" type="int32" value="1" />
+						<attribute id="Height" type="int32" value="2048" />
+						<attribute id="ID" type="FixedString" value="1b2a3617-c184-47a3-aeed-4315eefc7d12" />
+						<attribute id="Name" type="LSString" value="DRY_F_CLEA" />
+						<attribute id="SRGB" type="bool" value="False" />
+						<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/BodiesTextures/DRY_F_CLEA.DDS" />
+						<attribute id="Streaming" type="bool" value="True" />
+						<attribute id="Template" type="FixedString" value="DRY_F_CLEA" />
+						<attribute id="Type" type="int32" value="1" />
+						<attribute id="Width" type="int32" value="2048" />
+						<attribute id="_OriginalFileVersion_" type="int64" value="144255925564211200" />
+					</node>
+					<node id="Resource">
+						<attribute id="Depth" type="int32" value="1" />
+						<attribute id="Height" type="int32" value="2048" />
+						<attribute id="ID" type="FixedString" value="4fed21bc-34fd-4fde-bfcc-94917b35b060" />
+						<attribute id="Name" type="LSString" value="DRY_F_HMVY" />
+						<attribute id="SRGB" type="bool" value="False" />
+						<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/BodiesTextures/DRY_F_HMVY.DDS" />
+						<attribute id="Streaming" type="bool" value="True" />
+						<attribute id="Template" type="FixedString" value="DRY_F_HMVY" />
+						<attribute id="Type" type="int32" value="1" />
+						<attribute id="Width" type="int32" value="2048" />
+						<attribute id="_OriginalFileVersion_" type="int64" value="144255925564211200" />
+					</node>
+					<node id="Resource">
+						<attribute id="Depth" type="int32" value="1" />
+						<attribute id="Height" type="int32" value="4096" />
+						<attribute id="ID" type="FixedString" value="1d17d448-8ad9-471a-bd75-b733a67b3163" />
+						<attribute id="Name" type="LSString" value="DRY_F_NM" />
+						<attribute id="SRGB" type="bool" value="False" />
+						<attribute id="SourceFile" type="LSString" value="Generated/Public/Em_Dryad_Race/BodiesTextures/DRY_F_NM.DDS" />
+						<attribute id="Streaming" type="bool" value="True" />
+						<attribute id="Template" type="FixedString" value="DRY_F_NM" />
+						<attribute id="Type" type="int32" value="1" />
+						<attribute id="Width" type="int32" value="4096" />
+						<attribute id="_OriginalFileVersion_" type="int64" value="144255925564211200" />
+					</node>
 			</children>
 		</node>
 	</region>

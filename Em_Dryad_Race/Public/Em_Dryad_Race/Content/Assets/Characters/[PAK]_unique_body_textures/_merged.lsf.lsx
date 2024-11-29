@@ -10,7 +10,7 @@
 					<attribute id="ID" type="FixedString" value="0cd6c7a4-755a-41e6-97ce-c7c4da2238e0" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Em_DRYAD_Spring_F_Body_unique" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_GM.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Materials/Dryad_Body/Trips_Skin_Body_GM_HB_Green.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
 					<children>
 						<node id="ScalarParameters">
@@ -294,6 +294,27 @@
 							<attribute id="Value" type="float" value="0.2" />
 						</node>
 						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
+							<attribute id="ID" type="FixedString" value="1b2a3617-c184-47a3-aeed-4315eefc7d12" />
+							<attribute id="ParameterName" type="FixedString" value="CLEA" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
+							<attribute id="ID" type="FixedString" value="4fed21bc-34fd-4fde-bfcc-94917b35b060" />
+							<attribute id="ParameterName" type="FixedString" value="HMVY" />
+						</node>
+						<node id="Texture2DParameters">
+							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="ExportAsPreset" type="bool" value="True" />
+							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
+							<attribute id="ID" type="FixedString" value="1d17d448-8ad9-471a-bd75-b733a67b3163" />
+							<attribute id="ParameterName" type="FixedString" value="normalmap" />
+						</node>
+						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="07Engine NoUse" />
@@ -304,7 +325,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="b0f92c55-fce6-1345-7813-d5ccca1dcf7d" />
+							<attribute id="ID" type="FixedString" value="ae84c7c6-2da8-4664-a52a-46f87e0cd855" />
 							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 						</node>
 						<node id="Texture2DParameters">
@@ -529,7 +550,7 @@
 					<attribute id="ID" type="FixedString" value="fd5869af-0495-424d-a2ac-fffbe61d7f54" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Em_DRYAD_Summer_F_Body_unique" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_GM.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Materials/Dryad_Body/Trips_Skin_Body_GM_HB_Yellow.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
 					<children>
 						<node id="ScalarParameters">
@@ -823,7 +844,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="b0f92c55-fce6-1345-7813-d5ccca1dcf7d" />
+							<attribute id="ID" type="FixedString" value="ae84c7c6-2da8-4664-a52a-46f87e0cd855" />
 							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 						</node>
 						<node id="Texture2DParameters">
@@ -1048,7 +1069,7 @@
 					<attribute id="ID" type="FixedString" value="25ee8c31-7403-4e0e-91fc-006469aab943" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Em_DRYAD_Autumn_F_Body_unique" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_GM.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Materials/Dryad_Body/Trips_Skin_Body_GM_HB_Orange.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
 					<children>
 						<node id="ScalarParameters">
@@ -1342,7 +1363,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="b0f92c55-fce6-1345-7813-d5ccca1dcf7d" />
+							<attribute id="ID" type="FixedString" value="ae84c7c6-2da8-4664-a52a-46f87e0cd855" />
 							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 						</node>
 						<node id="Texture2DParameters">
@@ -1567,7 +1588,7 @@
 					<attribute id="ID" type="FixedString" value="3de676b0-51d7-4743-bf6b-1866623cb454" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Em_DRYAD_Winter_F_Body_unique" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_GM.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Materials/Dryad_Body/Trips_Skin_Body_GM_HB_Blue.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566628" />
 					<children>
 						<node id="ScalarParameters">
@@ -1861,7 +1882,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="b0f92c55-fce6-1345-7813-d5ccca1dcf7d" />
+							<attribute id="ID" type="FixedString" value="ae84c7c6-2da8-4664-a52a-46f87e0cd855" />
 							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 						</node>
 						<node id="Texture2DParameters">
@@ -2087,7 +2108,7 @@
 					<attribute id="ID" type="FixedString" value="602e58cb-915d-4d16-b305-aae1e1f9aabf" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Em_DRYAD_Spring_M_Body_unique" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_GM.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Materials/Dryad_Body/Trips_Skin_Body_GM_HB_Green.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 					<children>
 						<node id="ScalarParameters">
@@ -2381,7 +2402,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="b0f92c55-fce6-1345-7813-d5ccca1dcf7d" />
+							<attribute id="ID" type="FixedString" value="ae84c7c6-2da8-4664-a52a-46f87e0cd855" />
 							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 						</node>
 						<node id="Texture2DParameters">
@@ -2606,7 +2627,7 @@
 					<attribute id="ID" type="FixedString" value="7e9b6ede-3e81-43aa-894b-f5cd1399b408" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Em_DRYAD_Summer_M_Body_unique" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_GM.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Materials/Dryad_Body/Trips_Skin_Body_GM_HB_Yellow.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 					<children>
 						<node id="ScalarParameters">
@@ -2900,7 +2921,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="b0f92c55-fce6-1345-7813-d5ccca1dcf7d" />
+							<attribute id="ID" type="FixedString" value="ae84c7c6-2da8-4664-a52a-46f87e0cd855" />
 							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 						</node>
 						<node id="Texture2DParameters">
@@ -3125,7 +3146,7 @@
 					<attribute id="ID" type="FixedString" value="5c705038-582e-4525-a6c9-1db11617d338" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Em_DRYAD_Autumn_M_Body_unique" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_GM.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Materials/Dryad_Body/Trips_Skin_Body_GM_HB_Orange.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 					<children>
 						<node id="ScalarParameters">
@@ -3419,7 +3440,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="b0f92c55-fce6-1345-7813-d5ccca1dcf7d" />
+							<attribute id="ID" type="FixedString" value="ae84c7c6-2da8-4664-a52a-46f87e0cd855" />
 							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 						</node>
 						<node id="Texture2DParameters">
@@ -3644,7 +3665,7 @@
 					<attribute id="ID" type="FixedString" value="c5175dbd-288b-4a66-b36e-707c560a2a79" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Em_DRYAD_Winter_M_Body_unique" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_GM.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Em_Dryad_Race/Assets/Materials/Dryad_Body/Trips_Skin_Body_GM_HB_Blue.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 					<children>
 						<node id="ScalarParameters">
@@ -3938,7 +3959,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01 Texture Map" />
-							<attribute id="ID" type="FixedString" value="b0f92c55-fce6-1345-7813-d5ccca1dcf7d" />
+							<attribute id="ID" type="FixedString" value="ae84c7c6-2da8-4664-a52a-46f87e0cd855" />
 							<attribute id="ParameterName" type="FixedString" value="Glowmap" />
 						</node>
 						<node id="Texture2DParameters">
