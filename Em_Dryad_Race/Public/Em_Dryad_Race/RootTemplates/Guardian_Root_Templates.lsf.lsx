@@ -8,7 +8,7 @@
         		<node id="GameObjects">
                     <attribute id="AnimationSetResourceID" type="FixedString" value="955b1b70-725c-539b-c870-ed2fcccef2c7" />
                     <attribute id="CharacterVisualResourceID" type="FixedString" value="e5277d90-16ea-49c7-aced-bdef87ed2d8b" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="hb6045cfbg3c97g4b1cgaf57gaf508f601e2b" version="2" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6bc1769eg6423g4b35g8dd3g58c41e061cb3" version="2" />
                     <attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
                     <attribute id="Flag" type="int32" value="0" />
                     <attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
@@ -47,7 +47,7 @@
         		<node id="GameObjects">
                     <attribute id="AnimationSetResourceID" type="FixedString" value="955b1b70-725c-539b-c870-ed2fcccef2c7" />
                     <attribute id="CharacterVisualResourceID" type="FixedString" value="cfd46072-fd85-4168-9136-0639f71329e9" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="hb6045cfbg3c97g4b1cgaf57gaf508f601e2b" version="2" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6bc1769eg6423g4b35g8dd3g58c41e061cb3" version="2" />
                     <attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
                     <attribute id="Flag" type="int32" value="0" />
                     <attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
@@ -86,7 +86,7 @@
         		<node id="GameObjects">
                     <attribute id="AnimationSetResourceID" type="FixedString" value="955b1b70-725c-539b-c870-ed2fcccef2c7" />
                     <attribute id="CharacterVisualResourceID" type="FixedString" value="bd556609-3963-4c66-8954-32e0dbd53e93" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="hb6045cfbg3c97g4b1cgaf57gaf508f601e2b" version="2" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6bc1769eg6423g4b35g8dd3g58c41e061cb3" version="2" />
                     <attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
                     <attribute id="Flag" type="int32" value="0" />
                     <attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
@@ -125,7 +125,7 @@
         		<node id="GameObjects">
                     <attribute id="AnimationSetResourceID" type="FixedString" value="955b1b70-725c-539b-c870-ed2fcccef2c7" />
                     <attribute id="CharacterVisualResourceID" type="FixedString" value="2068094c-82ca-4dcc-87c8-24a6da796172" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="hb6045cfbg3c97g4b1cgaf57gaf508f601e2b" version="2" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6bc1769eg6423g4b35g8dd3g58c41e061cb3" version="2" />
                     <attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
                     <attribute id="Flag" type="int32" value="0" />
                     <attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
@@ -164,7 +164,7 @@
         		<node id="GameObjects">
                     <attribute id="AnimationSetResourceID" type="FixedString" value="375b5993-9c64-0645-e9b1-58fdadcf44cb" />
                     <attribute id="CharacterVisualResourceID" type="FixedString" value="89a6df60-f301-4a14-81fe-b2b90a42e462" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="hb6045cfbg3c97g4b1cgaf57gaf508f601e2b" version="2" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6bc1769eg6423g4b35g8dd3g58c41e061cb3" version="2" />
                     <attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
                     <attribute id="Flag" type="int32" value="0" />
                     <attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
@@ -193,7 +193,7 @@
 									<attribute id="Object" type="guid" value="64371de9-3ea4-4482-ba5e-718f2fb8adfe" /> Custom Sub Race tag
 								</node>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="17c2405e-5771-4150-ad00-b1ef8d1dd5ae" />
+									<attribute id="Object" type="guid" value="807af8f5-0183-42d9-8d40-6e93d5236cc2" />
 								</node>
 							</children>
 						</node>
@@ -203,7 +203,7 @@
         		<node id="GameObjects">
                     <attribute id="AnimationSetResourceID" type="FixedString" value="375b5993-9c64-0645-e9b1-58fdadcf44cb" />
                     <attribute id="CharacterVisualResourceID" type="FixedString" value="079b4c47-3051-4398-b136-b6268a648c55" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="hb6045cfbg3c97g4b1cgaf57gaf508f601e2b" version="2" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6bc1769eg6423g4b35g8dd3g58c41e061cb3" version="2" />
                     <attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
                     <attribute id="Flag" type="int32" value="0" />
                     <attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
@@ -232,7 +232,7 @@
 									<attribute id="Object" type="guid" value="64371de9-3ea4-4482-ba5e-718f2fb8adfe" /> Custom Sub Race tag
 								</node>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="17c2405e-5771-4150-ad00-b1ef8d1dd5ae" />
+									<attribute id="Object" type="guid" value="807af8f5-0183-42d9-8d40-6e93d5236cc2" />
 								</node>
 							</children>
 						</node>
@@ -242,7 +242,7 @@
         		<node id="GameObjects">
                     <attribute id="AnimationSetResourceID" type="FixedString" value="375b5993-9c64-0645-e9b1-58fdadcf44cb" />
                     <attribute id="CharacterVisualResourceID" type="FixedString" value="613a159b-e646-41d4-81a8-3bb1e3269945" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="hb6045cfbg3c97g4b1cgaf57gaf508f601e2b" version="2" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6bc1769eg6423g4b35g8dd3g58c41e061cb3" version="2" />
                     <attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
                     <attribute id="Flag" type="int32" value="0" />
                     <attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
@@ -271,7 +271,7 @@
 									<attribute id="Object" type="guid" value="64371de9-3ea4-4482-ba5e-718f2fb8adfe" /> Custom Sub Race tag
 								</node>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="17c2405e-5771-4150-ad00-b1ef8d1dd5ae" />
+									<attribute id="Object" type="guid" value="807af8f5-0183-42d9-8d40-6e93d5236cc2" />
 								</node>
 							</children>
 						</node>
@@ -281,7 +281,7 @@
         		<node id="GameObjects">
                     <attribute id="AnimationSetResourceID" type="FixedString" value="375b5993-9c64-0645-e9b1-58fdadcf44cb" />
                     <attribute id="CharacterVisualResourceID" type="FixedString" value="3b5f4158-ef45-4f05-bbaf-46a629071e8a" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="hb6045cfbg3c97g4b1cgaf57gaf508f601e2b" version="2" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6bc1769eg6423g4b35g8dd3g58c41e061cb3" version="2" />
                     <attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
                     <attribute id="Flag" type="int32" value="0" />
                     <attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
@@ -310,7 +310,7 @@
 									<attribute id="Object" type="guid" value="64371de9-3ea4-4482-ba5e-718f2fb8adfe" /> Custom Sub Race tag
 								</node>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="17c2405e-5771-4150-ad00-b1ef8d1dd5ae" />
+									<attribute id="Object" type="guid" value="807af8f5-0183-42d9-8d40-6e93d5236cc2" />
 								</node>
 							</children>
 						</node>
